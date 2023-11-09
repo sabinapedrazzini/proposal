@@ -1,0 +1,285 @@
+---
+title             : "PhD proposal: the role of social identity in Swiss urban commons"
+shorttitle        : "PhD proposal"
+
+author: 
+  - name          : "Pedrazzini Sabina"
+    affiliation   : "1"
+    #corresponding : yes    # Define only one corresponding author
+    #address       : "University of Bern, Centre for Development and Environment (CDE), Mittelstrasse 43, CH-3012 Bern"
+    #email         : "sabina.pedrazzini@unibe.ch"
+    #role:         # Contributorship roles (e.g., CRediT, https://casrai.org/credit/)
+     # - "Conceptualization"
+     # - "Writing - Original Draft Preparation"
+     # - "Writing - Review & Editing"
+
+affiliation:
+  - id            : "1"
+    institution   : "Centre for Development and Environment, University of Bern"
+
+bibliography      : CommonPaths.json
+
+floatsintext      : no
+linenumbers       : yes
+draft             : no
+mask              : no
+
+figurelist        : no
+tablelist         : no
+footnotelist      : no
+
+classoption       : "man"
+output            : papaja::apa6_word
+#always_allow_html : true
+#bibliography: references.bib
+---
+
+# Societal problem
+
+basic structure:
+
+1.  problem = climate and social crises
+2.  solution = radical change in the system, degrowth
+3.  commons as part of the solution
+    1.  definition of commons
+    2.  link between commons and degrowth
+    3.  type of commons: urban vs rural =\> explain why urban interesting
+4.  challenge in commons = cooperation
+    1.  main conflict = social dilemma
+    2.  study of cooperation: several factors that can improve it
+
+Since several years, we are facing many global crises, both on the climatic and on the social level. For instance, we recently went through a global pandemic, several natural disaster such as fires and floods, wars with consequent humanitary emergencies, and an important rising in the cost of living. To address these problems, 17 sustainable development goals (SDGs) were created during the 2012 United Nations Conference on Sustainable Development. The aim was to "produce a set of universal goals that meet the urgent environmental, political and economic challenges facing our world" (United Nations Development Program, n.d.). However, according to the latest Global Sustainable Development Report (2023), ten years later the establishment of these goals, we are still far from achieving them[^1]. It is not too late to improve the future perspective and to approach the realization of SDGs, but a radical social and economic change is needed. In fact, if we stay on a "business-as-usual pathway", the goals will not be achieved by 2030, or even 2050 (GSDR, 2023).
+
+[^1]: More specifically, a regression is observed in goals concerning air pollution, agricultural water use, relative poverty rates, food waste, greenhouse gas emissions, and biodiversity and nitrogen use. There are minimal progress on goals related to malnutrition and gender gap, while gains are observed only in few areas such as extreme poverty reduction and global income convergence.
+
+Since SDGs are related to social, economic and ecological issues, the path to attain these goal is not the same for every country. In fact, at the moment there are no countries that satisfy the basic needs of human well-being while using the resources in a globally sustainable way. On one hand, countries in Global North generally ensure their population's well-being, but they also have a resources consumption that is very far from being sustainable. On the other hand, in Global South the planetary boundaries concerning resources consumption are usually respected, but people's needs are not (fully) met [@ONeill2018]. INSTERT THE AUTHOR DEFINITION OF PLANETARY BOUNDARIES
+
+Switzerland completely follows the Global North tendency. In fact, of the 7 planetary boundaries identified by @ONeill2018, 6 are exceeded, with "Blue water" being the only exception. At the same time, @ONeill2018 found that Switzerland achieved 7 out of the 11 social indicators chosen for their research (Country Comparisons, n.d.), while they did not find information for the remaining four, namely "Life satisfaction", "Healthy life expectancy", "Social support" and "Democratic quality". However, according to the OECD Better Life Index, Switzerland perform very well also in these four factors. Therefore, in order to ensure a good life within planetary boundaries for everyone, @ONeill2018 suggest that "provisioning systems must be fundamentally restructured to enable basic needs to be met at a much lower level of resource use" (p. 92).
+
+Although the actual situation would suggest that well-being is met only when planetary boundaries are exceeded, more and more scholar argue that there is another solution: degrowth.
+
+'Degrowth' is a term that is increasingly mobilized by scholars and activists to criticize the hegemony of growth and a proposal for a radical reorganization of society that leads to a drastic reduction in the use of energy and resources and that is deemed necessary, desirable, and possible [@Schmelzer2022]
+
+"the planned and democratic reduction of production and consumption as a solution to the socialecological crises" [@Fitzpatrick2022]
+
+@Kallis2018: review about degrowth, look for a definition
+
+--\> SOLUTION = DEGROWTH (find a definition)
+
+-   commons are a way to attain degrowth, they are part of the solution: "they respect the planet by giving mutual benefits to their members, and they could be the needed change toward more sustainable and fair economy and society (@Meroni2022; @Seravalli2018)" =\> read again the two articles to formulate better
+-   Summing up this perspective, Federici and Caffentzis (2014) emphasize that the commons are not only the practices for sharing in an egalitarian manner the resources we produce but are also a commitment to the fostering of common interest in every aspect of our lives and political work =\> citation found in @Singh2017, look for the reference!
+-   @Bollier2014: "important feature of commons : they can arise almost anywhere and be highly generative in unlikely circumstances. There is no master inventory of commons. They can arise whenever a community decides it wishes to manage a resource in a collective manner, with a special regard for equitable access, use and sustainability."
+-   @Bollier2014: "defined as paradigms that combine a distinct community with a set of social practices, values and norms that are used to manage a resource. Put another way, a commons is a resource + a community + a set of social protocols. The three are an integrated, interdependent whole"
+-   @Bollier2014: "Hardin's fictional scenario sets forth a system that has no boundaries around the pasture, no rules for managing it, no punishments for over-use and no distinct community of users. But that is not a commons . It is an open-a ccess regime, or a free-for -all. A commons has boundaries, rules, social norms and sanctions against free riders."
+-   defining commons
+
+@Gidwani2011: reference to say that researches about commons usually focused on rural ones, but that urban are more and more included (but for urban common they intend public spaces and services of cities, and especially in developing countries where these commons are more at risk) + interesting points for the definition (see parts in red)
+
+@Feinberg2021: "The urban commons has gained a growing interest over the past decade, both in the field and in the scientific community" + interesting elements for the definition of commons
+
+@Feinberg2021: Urban commons initiatives are not bound to physical or digital infrastructures. What makes them new commons is not the physical infrastructure, the floor, the walls, the shops or any other visible amenity that may become a "collective good", but the atmospheres created by users passing by or gathering: a transit space created by informal socializing
+
+Look for @Hess2008 and the classification of new commons =\> read the paper!
+
+definitions: @Schmelzer2022: "commons are those social practices through which self-organized communities govern certain goods, resources, or territories, according to self designed rules and institutions" @Seravalli2018a: "collaborative arrangements for value production processes that are based on participatory principles" @Bollier2019: Commons are living social systems through which people to address their shared problems in self-organized ways [...]. Terms such as common goods, common-pool resources, and common property misrepresent the commons because they emphasize objects and individuals, not relationships and systems
+
+commoning: @Schmelzer2022: 'Commoning' refers to the different forms of negotiation and the more permanent, autonomously managed institutions depending on the type of goods available -- that govern the access, use, management, and permanent conservation of these goods
+
+@Fitzpatrick2022: review on degrowth literature, some of the elements identified relate to commons: - part of the objectives to attain degrowth: guarantee the decommodified and universal provision of fundamental human needs; promote shared housing; prioritise small, highly self-sufficient communities; defend and reclaim the commons\
+- theme "energy & environment": energy democracy made of convivial, community-owned and operated renewable energy systems\
+- theme "food": food as political, so every community should be able to determine its food system, seed commons\
+- theme "governance & geopolitics": defence and reclaiming of the commons via the local, democratic ownership of essential infrastructure such as banking, energy, education, healthcare, local government, telecommunications, transport, waste, and water\
+- theme "production & consumption": democratic, not-for-profit business models such as cooperatives, self-production, smaller businesses, and commons-based peer production; encouraging voluntary simplicity (bike infrastructures, co-housing, shared utilities, repair cafes, decommodified hobbies)\
+- theme "urban planning": guarantee decent, affordable homes for everyone by protecting the housing sector from commodification and speculation; Housing sufficiency promotes alternative housing arrangements such as ecovillages, eco-cohousing, housing cooperatives, or squatting. It also promotes common facilities (e.g. cars, gardens, kitchens) and retrofitting programs to significantly lower the ecological footprint of dwellings
+
+@Schmelzer2022: We focus on transformational changes in six areas: (1) democratizing the economy, which includes, for example, strengthening the commons and solidarity economy, transferring utilities like water or electricity into democratic ownership, providing institutional support for cooperative workplaces, or proposals for macroeconomic coordination and participatory planning (in the introduction) + 6 clusters grouping proposal for degrowth pathaways, the 1) involving commons: "democratization, solidarity economy, and commoning" =\> initiatives such as collectively managed common properties, solidary economies or community-based agricultural systems should be defended against the competition of neoliberal markets, but also the degrowth policies should create the conditions for their expansion "The defense of existing commons and the expansion of production methods based on commons principles can be seen as a central component of a degrowth economy"
+
+-   @Euler2019: commons as alternative to a capitalist system because they allow degrowth
+
+-   challenge in commons: social dilemma =\> temptation to pursue personal interest, but if everybody does so the commons will fail
+
+define cooperation + literature on cooperation
+
+# State of research
+
+Currently, there are not many studies that investigated cooperation in (urban) commons from a social psychological point of view.
+
+About the study of cooperation in (urban) commons
+
+find studies on commons on a psychological perspective/focus on members?
+
+@Singh2017: "[Hardin's] caricature does not take into account the possibility that the shepherd might grieve the loss of his green valley when it degrades, or that grief might galvanize him into action to avert the tragedy. The affective and communicative relations between the pasture and the shepherd and amongst the shepherds and their power to bring both the commoner and the commons into being remain invisible in this picture"\
+"affective and communicative relations between the commons and the commoners can lead to more robust theorizing about the commons, and also possibly help in bringing together divergent ways of thinking about the commons"
+
+=\> focus on more individual, relational aspects (affective), but with a quantitative method + rural common
+
+forest in India
+
+@Nightingale2011: "I take some of these insights into the commons debate to think about the role of subjectivity and emotion in creating durable cooperative agreements. In other words, can we conceptualise a 'non-rational' commons?"
+
+fisheries in ??
+
+@Kopelman2002: review of the factors that influence cooperation in commons dilemmas, here's what they identified on the individual level: gender and social motives (SVO) and power (social status) =\> so not really a focus on identity factors or group dynamic factors
+
+@Gifford1997: study of the cooperation in commons but with mathematical models
+
+@DeCaro2021: "Conventional wisdom (rational choice theory) assumes that individuals are destined to collectively destroy vital ecological systems due to their narrow self-interest. In contrast, Humanistic Rational Choice Theory (HRCT) assumes individuals can cooperatively self-govern, devising effective conservation agreements and governance systems to constrain self-interest for mutual benefit. To test this assumption, we examined the motivational, perceptual, and cooperative outcomes of communication in a resource dilemma experiment"
+
+lab studies
+
+papers when typing "commons" and "psychology"
+
+Edney, J. J., & Harper, C. S. (1978). The commons dilemma: A review of contributions from psychology. *Environmental Management*, *2*, 491-507. =\> how the studies of commons contributed to psychology research about decision-making
+
+Fox, D. R. (1985). Psychology, ideology, utopia, and the commons. *American Psychologist, 40*(1), 48--58. [https://doi.org/10.1037/0003-066X.40.1.48](https://psycnet.apa.org/doi/10.1037/0003-066X.40.1.48) =\> how to find communal solution while maintaining individualism (= need)? Literature review, not really a psychological paper
+
+=\> not really in the sense that I mean
+
+@VanVugt2009 =\> incentives, identity, information and institutions
+
+The Psychology of Social Dilemmas (@VanVugt1998) =\> individual and collective solution to social dilemmas, he talks about SD but to model real-life situation such as water shortage or public transportation
+
+=\> both of VV papers mention social identity but it has not been study in a real common, but just in social dilemma real-life situations
+
+@Feinberg2021 mention the creation of a collective identity as a benefit of urban commons, and this helps resilience of commoners
+
+# Gaps
+
+-   few studies that focused in a psychological way on why do people cooperate in commons =\> most of them studied the commons as a whole, without focusing on the individuals that manage them (see references above)
+
+    -   VV applied social psychology to real-life social dilemmas and showed that identification and social norms are very important motivations when deciding whether to cooperate. However, he did not study this effect in commons as we define them
+
+    -   Singh + Nightindale = non-rational factors such as emotions, ... applied to commons, but not in a quantitative way, and not factor related to social psychology
+
+-   studies about individual factors =\> qualitative, lack of quantitative studies in the field
+
+    -   there are quantitative studies about cooperation in commons, but often they are lab experiments that recreate a commons [e.g @Mosler1993; @Brozyna2018]
+
+-   most of the field study are done in rural commons =\> what about urban commons [@Feinberg2021 did a review about UC, but no field study]
+
+-   SOCIAL IDENTITY IS ALWAYS USED AS A SINGLE CONSTRUCT, BUT IN REAL LIFE PEOPLE HAVE MANY SOCIAL IDENTITIES OVERLAPPING!
+
+# Scope
+
+housing initiatives in Switzerland as real-life commons =\> why? find the parallelism between the two (see document prepared for the kick-off meeting)
+
+=\> elements of the definition = shared resource self-managed by a community of users, who contributes to sustainability
+
+CODHA: Founded in 1994 as a non-profit organization, CODHA brings together people who want a different kind of housing, a different quality of life, a different relationship with the home, based on participation, conviviality, and solidarity. The cooperative carries out its projects by pooling financial resources and through the active participation of residents. Internal management of the buildings by the residents also enables them to define a living environment closer to their aspirations
+
+WOGENO: Bern: The co-operative WOGENO Bern buys, builds and finances houses in order to permanently remove them from speculation. It provides its members with affordable living and working space. Self-managed, secure and communal forms of housing are realized. WOGENO Bern is a non-profit organisation and stands for a responsible approach to its social and natural environment. ZH: more or less the same, see: <https://www.wogeno-zuerich.ch/genossenschaft/genossenschaft-wogeno-zuerich/>
+
+check here: <https://gen-suisse.ch/it/inizio/> =\> housing initiatives but more on the rural zones, but can be useful to define "eco-villages"
+
+# Research questions & methods
+
+How does the "common identity" interact with other social identity such as gender, socio-economic status?
+
+@Feinberg2021: Another source of social tensions, which can also lead to exclusions, is the diverse cultures existing [31] (Bogadi, 2017; Di Feliciantonio, 2017b) and divergent interests or views [28] (D'Souza & Nagendra, 2011; Rao, 2013), potentially causing conflicts (Gilmore, 2017; Huron, 2015).
+
+-   number of common activities = proxy for identity management of the commons? The organization should say how many/how frequent the proposed activity are, and if participation is mandatory
+
+-   measure of "commoners identity" and previous social identity =\> commoners should identify less strongly in previous identity that non commoners? and this difference should be linked to the number of activities that are organized?
+
+    -   same items to measure other social identity + for commoners: "being part of the housing is an important part of my identity", for non-commoners: "being part of the city is an important..." (???)
+
+-   common activity = proposed by the housing community, not at the individual level: the overall activity of the community should predict the identification of the individuals
+
+How does the identification as a commoner impact the participation to the management activities/community activities? How does it impact the relationship with others members (trust, communication, importance of social norms, ...)?
+
+-   opposite than before: activity = individual participation --\> the strength of the identification should predict the level of individual participation
+
+-   measure of social norms about participating in these activities
+
+-   measure of trust on others that will participate in these activities
+
+-   measure of all the other identified factors (?)
+
+=\> find similar questions for the control group!!!
+
+Is it possible to improve the participation to commons activities through an external behavioural intervention?
+
+-   tbd based on the results of previous surveys
+
+LAST RESEARCH QUESTION (maybe?): do commoners and non-commoners have different perspectives on society (inequalities, climate change, trust on others about global issues, ...)? Do this difference evolve over time?
+
+=\> few questions to insert in each wave of the survey
+
+Control variables:
+
+-   years of living in the community
+
+-   house level = when was the community created
+
+-   house level = distance from the city center, isolation (can impact the identification), shops (can impact how much members need to go to "normal" shops and therefore isolation)
+
+method = multilevel analysis =\> see the citation Christ et al. (2022) in Matthieu's paper
+
+```{r}
+library(DiagrammeR)
+library(webshot2)
+DiagrammeR::grViz("digraph {
+graph [layout = neato, rankdir = LR]
+ 
+node [shape = rectangle, fontsize = 24, fontname = Arial]
+
+rec1 [label = 'societal problem', pos='-8,4!', width = 1, height = 0.5, color = transparent]
+rec2 [label = 'SDGs far from being reached
+GN: how to maintain social well-being while consuming less?
+solutions: degrowth => commons and urban commons
+cooperation is essential', pos='0,4!', width = 10, height = 3]
+
+rec3 [label = 'state of research', pos='-8,0!', width = 1, height = 0.5, color = transparent]
+rec4 [label = 'insert state of research', pos='0,0!', width = 9.5, height = 3]
+
+rec5 [label = 'gaps', pos='-8,-4!', width = 1, height = 0.5, color = transparent]
+rec6 [label = 'x', pos='0,-4!', width = 9, height = 3]
+
+rec7 [label = 'scope', pos='-8,-8!', width = 1, height = 0.5, color = transparent]
+rec8 [label = 'x', pos='0,-8!', width = 8.5, height = 3]
+
+rec9 [label = 'overall research question', pos='-8,-12!', width = 1, height = 0.5, color = transparent]
+rec10 [label = 'x', pos='0,-12!', width = 8, height = 3]
+
+rec11 [label = 'research question 1', pos='-8,-16!', width = 1, height = 0.5, color = transparent]
+rec12 [label = 'insert research question 1', pos='0,-16!', width = 7.5, height = 3]
+
+rec13 [label = 'insert method 1', pos='8,-16!', width = 7.5, height = 3]
+rec14 [label = 'insert analysis 1', pos='16,-16!', width = 7.5, height = 3]
+
+rec15 [label = 'research question 2', pos='-8,-20!', width = 1, height = 0.5, color = transparent]
+rec16 [label = 'insert research question 2', pos='0,-20!', width = 7.5, height = 3]
+
+rec17 [label = 'insert method 2', pos='8,-20!', width = 7.5, height = 3]
+rec18 [label = 'insert analysis 2', pos='16,-20!', width = 7.5, height = 3]
+
+rec19 [label = 'research question 3', pos='-8,-24!', width = 1, height = 0.5, color = transparent]
+rec20 [label = 'insert research question 3', pos='0,-24!', width = 7.5, height = 3]
+
+rec21 [label = 'insert method 3', pos='8,-24!', width = 7.5, height = 3]
+rec22 [label = 'insert analysis 3', pos='16,-24!', width = 7.5, height = 3]
+
+rec2 -> rec4 -> rec6 -> rec8 -> rec10 -> rec12
+rec12 -> rec13 -> rec14
+rec16 -> rec17 -> rec18
+rec20 -> rec21 -> rec22
+
+
+}",
+height = 2000, width = 1300)
+```
+
+\newpage
+
+# References
+
+Independent Group of Scientists appointed by the Secretary-General, Global Sustainable Development Report 2023: *Times of crisis, times of change: Science for accelerating transformations to sustainable development*, (United Nations, New York, 2023)
+
+United Nations Development Program (n.d.). *Sustainable Development Goals: Background on the Goals*. Retrieved November 9, 2023, from https://www.undp.org/sdg-accelerator/background-goals
+
+University of Leeds (n.d.). *Country Comparisons*. A Good Life For All Within Planetary Boundaries. Retrieved November 9, 2023, from https://goodlife.leeds.ac.uk/national-snapshots/countries/#Switzerland
+
+OECD (n.d.). *Switzerland*. OECD Better Life Index. Retrieved November 9, 2023, from https://www.oecdbetterlifeindex.org/countries/switzerland/
+
+::: {#refs custom-style="Bibliography"}
+:::
