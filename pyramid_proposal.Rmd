@@ -36,8 +36,6 @@ output            : papaja::apa6_word
 
 # Societal problem
 
-basic structure:
-
 1.  problem = climate and social crises
 2.  solution = radical change in the system, degrowth
 3.  commons as part of the solution
@@ -50,28 +48,29 @@ basic structure:
 
 Since several years, we are facing many global crises, both on the climatic and on the social level. For instance, we recently went through a global pandemic, several natural disaster such as fires and floods, wars with consequent humanitary emergencies, and an important rising in the cost of living. To address these problems, 17 sustainable development goals (SDGs) were created during the 2012 United Nations Conference on Sustainable Development. The aim was to "produce a set of universal goals that meet the urgent environmental, political and economic challenges facing our world" (United Nations Development Program, n.d.). However, according to the latest Global Sustainable Development Report (2023), ten years later the establishment of these goals, we are still far from achieving them[^1]. It is not too late to improve the future perspective and to approach the realization of SDGs, but a radical social and economic change is needed. In fact, if we stay on a "business-as-usual pathway", the goals will not be achieved by 2030, or even 2050 (GSDR, 2023).
 
-[^1]: More specifically, a regression is observed in goals concerning air pollution, agricultural water use, relative poverty rates, food waste, greenhouse gas emissions, and biodiversity and nitrogen use. There are minimal progress on goals related to malnutrition and gender gap, while gains are observed only in few areas such as extreme poverty reduction and global income convergence.
+[^1]: More specifically, between the measurements of 2019 and 2023, a regression was observed in goals concerning air pollution, agricultural water use, relative poverty rates, food waste, greenhouse gas emissions, and biodiversity and nitrogen use. There were minimal progress on goals related to malnutrition and gender gap, while gains were observed only in few areas such as extreme poverty reduction and global income convergence.
 
-Since SDGs are related to social, economic and ecological issues, the path to attain these goal is not the same for every country. In fact, at the moment there are no countries that satisfy the basic needs of human well-being while using the resources in a globally sustainable way. On one hand, countries in Global North generally ensure their population's well-being, but they also have a resources consumption that is very far from being sustainable. On the other hand, in Global South the planetary boundaries concerning resources consumption are usually respected, but people's needs are not (fully) met [@ONeill2018]. INSTERT THE AUTHOR DEFINITION OF PLANETARY BOUNDARIES
+Since SDGs are related to social, economic and ecological issues, the path to attain these goal is not the same for every country. In fact, at the moment there are no countries that satisfy the basic needs of human well-being while using the resources in a globally sustainable way. On one hand, countries in Global North generally ensure their population's well-being, but they also have a resources consumption that is very far from being sustainable. On the other hand, in Global South the planetary boundaries concerning resources consumption are usually respected, but people's needs are not (fully) met [@ONeill2018]. With "planetary boundaries", the authours mean seven "boundaries related to critical Earth-system process" (p. 88), namely: CO2 emissions, phosphorus, nitrogen, blue water, land-use change, ecological footprint, and material footprint. To maintain relative stable ecological conditions, this boundaries should not be transgressed. 
 
-Switzerland completely follows the Global North tendency. In fact, of the 7 planetary boundaries identified by @ONeill2018, 6 are exceeded, with "Blue water" being the only exception. At the same time, @ONeill2018 found that Switzerland achieved 7 out of the 11 social indicators chosen for their research (Country Comparisons, n.d.), while they did not find information for the remaining four, namely "Life satisfaction", "Healthy life expectancy", "Social support" and "Democratic quality". However, according to the OECD Better Life Index, Switzerland perform very well also in these four factors. Therefore, in order to ensure a good life within planetary boundaries for everyone, @ONeill2018 suggest that "provisioning systems must be fundamentally restructured to enable basic needs to be met at a much lower level of resource use" (p. 92).
+Switzerland completely follows the Global North tendency. In fact, of the 7 planetary boundaries, 6 are exceeded, with "Blue water" being the only exception. At the same time, @ONeill2018 found that Switzerland achieved 7 out of the 11 social indicators chosen for their research (Country Comparisons, n.d.), while they did not find information for the remaining four, namely "Life satisfaction", "Healthy life expectancy", "Social support" and "Democratic quality". However, according to the OECD Better Life Index, Switzerland perform very well also in these four factors. Therefore, in order to ensure a good life within planetary boundaries for everyone, @ONeill2018 suggest that "provisioning systems must be fundamentally restructured to enable basic needs to be met at a much lower level of resource use" (p. 92).
 
-Although the actual situation would suggest that well-being is met only when planetary boundaries are exceeded, more and more scholar argue that there is another solution: degrowth.
+Although the actual situation would suggest that well-being is met only when planetary boundaries are exceeded, more and more scholar argue that there is another solution: degrowth. This term indicate a radical change on the political and economic level to drastically reduce resource consumption [@Kallis2018]. The goal is to create a socially and ecologically sustainable society, that is not based on economic growth [@Euler2019]. In fact, the current capitalistic system is "structurally unsustainable, because it builds on structures of insufficiency — there is no “enough” to it" [@Euler2019, p. 2]. Therefore, this planned reduction of production and consumtption is seen as a solution to the current socio-ecological crises, and is deemed necessary, desirable, and possible [@Fitzpatrick2022; @Schmelzer2022].
 
-'Degrowth' is a term that is increasingly mobilized by scholars and activists to criticize the hegemony of growth and a proposal for a radical reorganization of society that leads to a drastic reduction in the use of energy and resources and that is deemed necessary, desirable, and possible [@Schmelzer2022]
+Commons represent an alternative to the capistlist system, and they are therefore a possible way to attain degrowth [@Euler2019]. Commons have many definitions, but they can be resumed within the following points:
+- 
 
-"the planned and democratic reduction of production and consumption as a solution to the socialecological crises" [@Fitzpatrick2022]
 
-@Kallis2018: review about degrowth, look for a definition
 
---\> SOLUTION = DEGROWTH (find a definition)
+
+first: define commons
+second: explain why commons can contribute to degrowth
+
 
 -   commons are a way to attain degrowth, they are part of the solution: "they respect the planet by giving mutual benefits to their members, and they could be the needed change toward more sustainable and fair economy and society (@Meroni2022; @Seravalli2018)" =\> read again the two articles to formulate better
 -   Summing up this perspective, Federici and Caffentzis (2014) emphasize that the commons are not only the practices for sharing in an egalitarian manner the resources we produce but are also a commitment to the fostering of common interest in every aspect of our lives and political work =\> citation found in @Singh2017, look for the reference!
 -   @Bollier2014: "important feature of commons : they can arise almost anywhere and be highly generative in unlikely circumstances. There is no master inventory of commons. They can arise whenever a community decides it wishes to manage a resource in a collective manner, with a special regard for equitable access, use and sustainability."
 -   @Bollier2014: "defined as paradigms that combine a distinct community with a set of social practices, values and norms that are used to manage a resource. Put another way, a commons is a resource + a community + a set of social protocols. The three are an integrated, interdependent whole"
 -   @Bollier2014: "Hardin's fictional scenario sets forth a system that has no boundaries around the pasture, no rules for managing it, no punishments for over-use and no distinct community of users. But that is not a commons . It is an open-a ccess regime, or a free-for -all. A commons has boundaries, rules, social norms and sanctions against free riders."
--   defining commons
 
 @Gidwani2011: reference to say that researches about commons usually focused on rural ones, but that urban are more and more included (but for urban common they intend public spaces and services of cities, and especially in developing countries where these commons are more at risk) + interesting points for the definition (see parts in red)
 
@@ -81,9 +80,7 @@ Although the actual situation would suggest that well-being is met only when pla
 
 Look for @Hess2008 and the classification of new commons =\> read the paper!
 
-definitions: @Schmelzer2022: "commons are those social practices through which self-organized communities govern certain goods, resources, or territories, according to self designed rules and institutions" @Seravalli2018a: "collaborative arrangements for value production processes that are based on participatory principles" @Bollier2019: Commons are living social systems through which people to address their shared problems in self-organized ways [...]. Terms such as common goods, common-pool resources, and common property misrepresent the commons because they emphasize objects and individuals, not relationships and systems
 
-commoning: @Schmelzer2022: 'Commoning' refers to the different forms of negotiation and the more permanent, autonomously managed institutions depending on the type of goods available -- that govern the access, use, management, and permanent conservation of these goods
 
 @Fitzpatrick2022: review on degrowth literature, some of the elements identified relate to commons: - part of the objectives to attain degrowth: guarantee the decommodified and universal provision of fundamental human needs; promote shared housing; prioritise small, highly self-sufficient communities; defend and reclaim the commons\
 - theme "energy & environment": energy democracy made of convivial, community-owned and operated renewable energy systems\
@@ -94,7 +91,6 @@ commoning: @Schmelzer2022: 'Commoning' refers to the different forms of negotiat
 
 @Schmelzer2022: We focus on transformational changes in six areas: (1) democratizing the economy, which includes, for example, strengthening the commons and solidarity economy, transferring utilities like water or electricity into democratic ownership, providing institutional support for cooperative workplaces, or proposals for macroeconomic coordination and participatory planning (in the introduction) + 6 clusters grouping proposal for degrowth pathaways, the 1) involving commons: "democratization, solidarity economy, and commoning" =\> initiatives such as collectively managed common properties, solidary economies or community-based agricultural systems should be defended against the competition of neoliberal markets, but also the degrowth policies should create the conditions for their expansion "The defense of existing commons and the expansion of production methods based on commons principles can be seen as a central component of a degrowth economy"
 
--   @Euler2019: commons as alternative to a capitalist system because they allow degrowth
 
 -   challenge in commons: social dilemma =\> temptation to pursue personal interest, but if everybody does so the commons will fail
 
@@ -160,6 +156,7 @@ The Psychology of Social Dilemmas (@VanVugt1998) =\> individual and collective s
 -   SOCIAL IDENTITY IS ALWAYS USED AS A SINGLE CONSTRUCT, BUT IN REAL LIFE PEOPLE HAVE MANY SOCIAL IDENTITIES OVERLAPPING!
 
 # Scope
+@Meroni2022: urban commons (see the definition!)
 
 housing initiatives in Switzerland as real-life commons =\> why? find the parallelism between the two (see document prepared for the kick-off meeting)
 
