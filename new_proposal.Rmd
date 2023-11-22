@@ -1,0 +1,176 @@
+---
+title             : "PhD proposal: the role of social identity in Swiss urban commons"
+shorttitle        : "PhD proposal"
+
+author: 
+  - name          : "Pedrazzini Sabina"
+    affiliation   : "1"
+    #corresponding : yes    # Define only one corresponding author
+    #address       : "University of Bern, Centre for Development and Environment (CDE), Mittelstrasse 43, CH-3012 Bern"
+    #email         : "sabina.pedrazzini@unibe.ch"
+    #role:         # Contributorship roles (e.g., CRediT, https://casrai.org/credit/)
+     # - "Conceptualization"
+     # - "Writing - Original Draft Preparation"
+     # - "Writing - Review & Editing"
+
+affiliation:
+  - id            : "1"
+    institution   : "Centre for Development and Environment, University of Bern"
+
+bibliography      : CommonPaths.json
+
+floatsintext      : no
+linenumbers       : yes
+draft             : no
+mask              : no
+
+figurelist        : no
+tablelist         : no
+footnotelist      : no
+
+classoption       : "man"
+output            : papaja::apa6_word
+---
+
+General plan:
+
+-   **state of research & gaps: in studies about cooperation in real-life commons, a social psychology perspective, as well as a quantitative approach is missing**
+
+-   **scope: housing initiatives in Switzerland**
+
+    -   **More in details:**
+
+        -   **Situation in CH**
+
+        -   **Urban commons (=\> same challenge as classic commons)**
+
+        -   **see document for kick-off meeting with parallel between definition and CODHA**
+
+-   **research questions:**
+
+    -   **does the social identification as a commoners impact cooperation?**
+
+    -   **is social identification impacted by the commons organization?**
+
+    -   **how could cooperation be increased?**
+
+    -   **how does social identification evolve overtime?**
+
+    -   **does housing initiatives contributes to create a social change?**
+
+Since several years, we are facing many global crises, both on the environmental and on the social level. For instance, we recently went through a global pandemic, several natural disaster such as fires and floods, wars with consequent humanitarian emergencies, and an important rising in the cost of living. To address these problems, 17 sustainable development goals (SDGs) were created during the 2012 United Nations Conference on Sustainable Development. The aim was to "produce a set of universal goals that meet the urgent environmental, political and economic challenges facing our world" (United Nations Development Program, n.d.). Some years later, @Steffen2015 proposed the Planetary Boundaries Framework, based on the biophysical processes regulating the stability of the Earth system. This framework defines nine "planetary boundaries" (the most important of which are climate change and biosphere integrity) that, if not overshot, insure a safe operating space for human activities. However, the path to attain the SDGs and to respect planetary boundaries is still long. In fact, the latest Global Sustainable Development Report (2023) highlighted that we are far from achieving most of the SDGs.[^1] Moreover, according to the latest update of the Stockholm Resilience Center (2023), at a global level, six boundaries are already crossed.
+
+[^1]: More specifically, between the measurements of 2019 and 2023, a regression was observed in goals concerning air pollution, agricultural water use, relative poverty rates, food waste, greenhouse gas emissions, and biodiversity and nitrogen use. There were minimal progress on goals related to malnutrition and gender gap, while gains were observed only in few areas such as extreme poverty reduction and global income convergence.
+
+In order to develop a new model for human well-being, @Raworth2017 combined the United Nations' SDGs with the Planetary Boundaries Framework. In her approach, "well-being depends on enabling every person to lead a life of dignity and opportunity, while safeguarding the integrity of Earth's life-supporting systems" [@Raworth2017, p.1]. Her model (shown in Figure 1) allows to define a safe and just space for humanity. The inner boundary (social foundation) is composed by social-related SDGs; a minimum level is necessary to attain these goals. On the other side, the ecological ceiling is based on the Planetary Boundaries Framework and ideally should not be overshot.
+
+![Figure 1. Doughnut with social foundations as inner boundary and ecological ceiling as outer boundary.\
+Source: @Raworth2017](figure%201.png){alt="Figure 1. Doughnut with social foundations as inner boundary and ecological ceiling as outer boundary.Source: Raworth (2017)"}
+
+As shown in Figure 1, at a global level, social foundations are not fully met and several planetary boundaries are already overshot. Therefore, a radical change is needed to attain Raworth's definition of well-being.[^2] However, the path to fully satisfy human needs within planetary boundaries is not the same for every country. In fact, countries in Global North generally ensure their population's needs, but they also overshoot most of the planetary boundaries, while in Global South the planetary boundaries are usually respected, but people's needs are not (fully) met [@ONeill2018]. The actual situation would therefore suggest that the social foundation is attained just when planetary boundaries are exceeded. To inverse this tendency, @ONeill2018 suggested that "provisioning systems must be fundamentally restructured to enable basic needs to be met at a much lower level of resource use" (p. 92).
+
+[^2]: In fact, if we stay on a "business-as-usual pathway", we will not be able to achieve SDGs by 2030, or even 2050 (GSDR, 2023).
+
+## The commons[^3] as a solution
+
+[^3]: The term "commons" is both singular and plural [@Bollier2014]. For the difference between the singular forms "common" and "commons", see @Feinberg2021.
+
+Commons could be a solution to the current social and ecological issues because they allow people to contrast the detrimental effects of capitalism by self-organizing to directly address their problems and needs in a sustainable way [@Bollier2014; @Bollier2019]. In fact, the capitalistic organization of labor has separated the production from the consumption, and individuals are therefore lead to ignore the social and environmental cost of the products they purchase [@Federici2010]. Moreover, commons are a possible way to attain degrowth [@Euler2019]. This term indicates a radical change on the political and economic level aimed at drastically reduce resource consumption [@Kallis2018]. The goal is to create a socially and ecologically sustainable society, that is not based on economic, capitalistic growth, that is "structurally unsustainable, because it builds on structures of insufficiency --- there is no "enough" to it" [@Euler2019, p. 2].
+
+Commons can assume various forms, because "they can arise whenever a community decides it wishes to manage a resource in a collective manner, with a special regard for equitable access, use and sustainability" [@Bollier2014, p.19]. Due to their variety there are several definitions of commons, that can be resumed through three key points.
+
+1.  The commons' goals are to manage shared resources that can be material or abstract [@Ostrom1990; @Meroni2022], and to allow people to find solutions for their shared needs [@Euler2018; @Euler2019].
+2.  Commons are managed by a self-organized community of users [@Ostrom1990], i.e. the commoners. This community is a "social network of mutual aid, solidarity, and practices of human exchange that are not reduced to the market form" [@DeAngelis2003, p.1]. Moreover, commoners' organization is usually local, egalitarian, integrative, and fair [@Gidwani2011].
+3.  The community's social practices and the process through which people come together to find solutions are called "commoning" [@Euler2018]. Thanks to this process, commoners create institutions to govern the commons [@Schmelzer2022].
+
+Finally, although commons are often thought just as a shared resource, the other two aspects are also essential in defining them. Therefore, it is important to consider the commons as the integration of the resource, the community (i.e. the commoners) and its social practices (i.e. commoning) [@Bollier2014]. Another important aspect is that commons are not organized around the generalized market competition [@Euler2019] and do not involve the classic private and public model [@Ostrom1990].
+
+In conclusion, commons can improve people well-being while reducing their environmental impact and, for this reason, they could lead to what @ONeill2018 (in the title of their paper) called "a good life for all within planetary boundaries".
+
+## Cooperation: the challenge of commons
+
+Giving commons' characteristics, their members face a conflict between individual, short-term interests and collective, long-term ones [@Hardin1968]: acting for the common good requires a personal sacrifice, and therefore the temptation to pursue the individual interest is constantly present. Moreover, people can have a feeling of personal inefficacy, because it is easy to believe that their individual contribution will not have a big impact on the collective level [@VanVugt1998], and this can also encourage commoners to pursue their personal interest. In order for a commons to be successful, its members have to overcome these challenges and cooperate, i.e incur a personal sacrifice for the greater good [@Kollock1998].
+
+One of the first paper about cooperation in commons was Hardin's "The tragedy of the commons" (1968). In this article, he argues that commons' members are rational beings who seek to maximize their personal interest by over exploiting the common resource. This would inevitably lead to the destruction of the resource, unless (1) an external institution regulates the access or (2) the resource is privatized. Therefore, according to Hardin, people benefiting from a common resource do not have the ability to successfully manage it without external interventions. His predictions are in line with the Rational Choice Theory (RCT), that also see human beings as too self-interested to cooperate [@DeCaro2021].
+
+However, later studies falsified Hardin's predictions about people's inability to manage a common resource and greed to maximize their self-interest. The first is Elinor Ostrom's seminal work (1990), where she studied several real-life commons, some of which very successfully managed by the community of users without the intervention of an external authority. Based on her observations, she established eight design principles that distinguish successful from unsuccessful commons. First, commons need clearly defined boundaries to determine who has access to the shared resource, and the governing rules must take into account the local conditions. Moreover, people affected by these rules must be able to participate in modifying them. A monitoring and a graduated sanctions system must also be implemented, as well as low-cost conflict resolution arenas. Finally, external authorities should not challenge the commons\' members\' right to self-organize[^4] [@Ostrom1990]. These conditions were not respected in Hardin's example, where hypothetical commoners made decisions in a context without local organization or established norms, and that can explain the negative prediction [@Ostrom2008].
+
+[^4]: The last principle is valid only for commons that are part of a larger system, and is about nested enterprises: all the governance activities should be organized in multiple layers of nested enterprises.
+
+Secondly, there are several theories less pessimistic than RCT about human nature. For instance, the Greed Efficiency Fairness hypothesis posits that the individuals' greed to pursue their narrow interests is constrained by their desire to use the resource efficiently and to fairly allocate it between members [@Wilke1991]. Similarly, according to the Humanistic Rational Choice Theory, the desire to maintain basic social-psychological needs motivates people to cooperate [@DeCaro2021]. Finally, cooperating can also be a self-presentation strategy [@VanVugt2010a], since showing altruistic behaviours has a positive effect on reputation [@Roberts1998].
+
+Finally, the laboratory study of social dilemmas also largely contributed to the study of this topic, by allowing researchers to identify several factors that shape cooperation [e.g. @VanLange2013]. In general, these studies falsified RCT, by demonstrating that, in social dilemmas, people cooperated more than predicted, and that their behaviour was impacted by variables that should not play a role according to the theory [@Ostrom1998].
+
+# State of research and gap
+
+-   traditionally: theoretical and observational/qualitative (Hardin and Ostrom)
+
+    -   few studies that focused in a psychological way on why do people cooperate in commons =\> most of them studied the commons as a whole, without focusing on the individuals that manage them (see references above)
+
+-   quantitative studies: in laboratory, with model of commons =\> find the reference that says that it's ok but not ideal because there are some aspects of real-life dynamics that cannot be reproduced =\> there are few or no studies that investigated the causal effect of individual and group factors on people\'s willingness to cooperate in a real-life commons
+
+    -   @Kopelman2002: review of the factors that influence cooperation in commons dilemmas, here's what they identified on the individual level: gender and social motives (SVO) and power (social status) =\> so not really a focus on identity factors or group dynamic factors
+
+    -   @DeCaro2021: "Conventional wisdom (rational choice theory) assumes that individuals are destined to collectively destroy vital ecological systems due to their narrow self-interest. In contrast, Humanistic Rational Choice Theory (HRCT) assumes individuals can cooperatively self-govern, devising effective conservation agreements and governance systems to constrain self-interest for mutual benefit. To test this assumption, we examined the motivational, perceptual, and cooperative outcomes of communication in a resource dilemma experiment"
+
+    -   The Psychology of Social Dilemmas (@VanVugt1998) =\> individual and collective solution to social dilemmas, he talks about SD but to model real-life situation such as water shortage or public transportation
+
+    -   there are quantitative studies about cooperation in commons, but often they are lab experiments that recreate a commons [e.g @Mosler1993; @Brozyna2018]
+
+-   social psychological perspective?
+
+    -   @VanVugt2009 =\> incentives, identity, information and institutions
+
+=\> both of VV papers mention social identity but it has not been study in a real common, but just in social dilemma real-life situations
+
+previous notes:
+
+find studies on commons on a psychological perspective/focus on members?
+
+@Singh2017: "[Hardin's] caricature does not take into account the possibility that the shepherd might grieve the loss of his green valley when it degrades, or that grief might galvanize him into action to avert the tragedy. The affective and communicative relations between the pasture and the shepherd and amongst the shepherds and their power to bring both the commoner and the commons into being remain invisible in this picture"\
+"affective and communicative relations between the commons and the commoners can lead to more robust theorizing about the commons, and also possibly help in bringing together divergent ways of thinking about the commons"
+
+=\> focus on more individual, relational aspects (affective), but with a non quantitative method
+
+@Nightingale2011: "I take some of these insights into the commons debate to think about the role of subjectivity and emotion in creating durable cooperative agreements. In other words, can we conceptualise a 'non-rational' commons?"
+
+@Gifford1997: study of the cooperation in commons but with mathematical models
+
+Edney, J. J., & Harper, C. S. (1978). The commons dilemma: A review of contributions from psychology. *Environmental Management*, *2*, 491-507. =\> how the studies of commons contributed to psychology research about decision-making
+
+GAP: QUANTITATIVE STUDY OF COOPERATION IN REAL-LIFE COMMONS, INVOLVING SOCIAL PSYCHOLOGICAL FACTORS
+
+-   few studies that focused in a psychological way on why do people cooperate in commons =\> most of them studied the commons as a whole, without focusing on the individuals that manage them (see references above)
+
+    -   VV applied social psychology to real-life social dilemmas and showed that identification and social norms are very important motivations when deciding whether to cooperate. However, he did not study this effect in commons as we define them
+
+    -   Singh + Nightindale = non-rational factors such as emotions, ... applied to commons, but not in a quantitative way, and not factor related to social psychology
+
+-   studies about individual factors =\> qualitative, lack of quantitative studies in the field
+
+-   SOCIAL IDENTITY IS ALWAYS USED AS A SINGLE CONSTRUCT, BUT IN REAL LIFE PEOPLE HAVE MANY SOCIAL IDENTITIES OVERLAPPING!
+
+-   no researches about how different social groups (women vs men, socio-economic status, ...) contribute differently to a common
+
+# Scope: urban commons in Switzerland
+
+# Research questions
+
+\newpage
+
+# References
+
+Independent Group of Scientists appointed by the Secretary-General, Global Sustainable Development Report 2023: *Times of crisis, times of change: Science for accelerating transformations to sustainable development*, (United Nations, New York, 2023)
+
+United Nations Development Program (n.d.). *Sustainable Development Goals: Background on the Goals*. Retrieved November 9, 2023, from <https://www.undp.org/sdg-accelerator/background-goals>
+
+University of Leeds (n.d.). *Country Comparisons*. A Good Life For All Within Planetary Boundaries. Retrieved November 9, 2023, from <https://goodlife.leeds.ac.uk/national-snapshots/countries/#Switzerland>
+
+OECD (n.d.). *Switzerland*. OECD Better Life Index. Retrieved November 9, 2023, from <https://www.oecdbetterlifeindex.org/countries/switzerland/>
+
+Stockholm Resilience Centre, Stockholm University (n.d.). *Planetary boundaries*. Retrieved November 20, 2023, from <https://www.stockholmresilience.org/research/planetary-boundaries.html>
+
+Swiss Confederation (2023, June 30). *Population - facts and figures*. About Switzerland. Retrieved November 20, 2023, from <https://www.eda.admin.ch/aboutswitzerland/en/home/gesellschaft/bevoelkerung/die-bevoelkerung---fakten-und-zahlen.html>
+
+::: {#refs custom-style="Bibliography"}
+:::
