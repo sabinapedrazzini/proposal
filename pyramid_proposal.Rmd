@@ -50,20 +50,15 @@ TEST Since several years, we are facing many global crises, both on the climatic
 
 [^1]: More specifically, between the measurements of 2019 and 2023, a regression was observed in goals concerning air pollution, agricultural water use, relative poverty rates, food waste, greenhouse gas emissions, and biodiversity and nitrogen use. There were minimal progress on goals related to malnutrition and gender gap, while gains were observed only in few areas such as extreme poverty reduction and global income convergence.
 
-Since SDGs are related to social, economic and ecological issues, the path to attain these goal is not the same for every country. In fact, at the moment there are no countries that satisfy the basic needs of human well-being while using the resources in a globally sustainable way. On one hand, countries in Global North generally ensure their population's well-being, but they also have a resources consumption that is very far from being sustainable. On the other hand, in Global South the planetary boundaries concerning resources consumption are usually respected, but people's needs are not (fully) met [@ONeill2018]. With "planetary boundaries", the authours mean seven "boundaries related to critical Earth-system process" (p. 88), namely: CO2 emissions, phosphorus, nitrogen, blue water, land-use change, ecological footprint, and material footprint. To maintain relative stable ecological conditions, this boundaries should not be transgressed. 
+Since SDGs are related to social, economic and ecological issues, the path to attain these goal is not the same for every country. In fact, at the moment there are no countries that satisfy the basic needs of human well-being while using the resources in a globally sustainable way. On one hand, countries in Global North generally ensure their population's well-being, but they also have a resources consumption that is very far from being sustainable. On the other hand, in Global South the planetary boundaries concerning resources consumption are usually respected, but people's needs are not (fully) met [@ONeill2018]. With "planetary boundaries", the authours mean seven "boundaries related to critical Earth-system process" (p. 88), namely: CO2 emissions, phosphorus, nitrogen, blue water, land-use change, ecological footprint, and material footprint. To maintain relative stable ecological conditions, this boundaries should not be transgressed.
 
 Switzerland completely follows the Global North tendency. In fact, of the 7 planetary boundaries, 6 are exceeded, with "Blue water" being the only exception. At the same time, @ONeill2018 found that Switzerland achieved 7 out of the 11 social indicators chosen for their research (Country Comparisons, n.d.), while they did not find information for the remaining four, namely "Life satisfaction", "Healthy life expectancy", "Social support" and "Democratic quality". However, according to the OECD Better Life Index, Switzerland perform very well also in these four factors. Therefore, in order to ensure a good life within planetary boundaries for everyone, @ONeill2018 suggest that "provisioning systems must be fundamentally restructured to enable basic needs to be met at a much lower level of resource use" (p. 92).
 
-Although the actual situation would suggest that well-being is met only when planetary boundaries are exceeded, more and more scholar argue that there is another solution: degrowth. This term indicate a radical change on the political and economic level to drastically reduce resource consumption [@Kallis2018]. The goal is to create a socially and ecologically sustainable society, that is not based on economic growth [@Euler2019]. In fact, the current capitalistic system is "structurally unsustainable, because it builds on structures of insufficiency — there is no “enough” to it" [@Euler2019, p. 2]. Therefore, this planned reduction of production and consumtption is seen as a solution to the current socio-ecological crises, and is deemed necessary, desirable, and possible [@Fitzpatrick2022; @Schmelzer2022].
+Although the actual situation would suggest that well-being is met only when planetary boundaries are exceeded, more and more scholar argue that there is another solution: degrowth. This term indicate a radical change on the political and economic level to drastically reduce resource consumption [@Kallis2018]. The goal is to create a socially and ecologically sustainable society, that is not based on economic growth [@Euler2019]. In fact, the current capitalistic system is "structurally unsustainable, because it builds on structures of insufficiency --- there is no "enough" to it" [@Euler2019, p. 2]. Therefore, this planned reduction of production and consumtption is seen as a solution to the current socio-ecological crises, and is deemed necessary, desirable, and possible [@Fitzpatrick2022; @Schmelzer2022].
 
-Commons represent an alternative to the capistlist system, and they are therefore a possible way to attain degrowth [@Euler2019]. Commons have many definitions, and they could be resumed through three key points. First, the commons’ goal is to manage shared resources, goods, or territories [@Ostrom1990; @Meroni2022; @Schmelzer2022] or to produce values [@Seravalli2018]. In general, commons allow to find solutions for the needs of the affected people [@Euler2018; @Euler2019]. Secondly, commons are managed by a self-organized community of users [@Ostrom1990] and they are based on participatory principles [@Seravalli2018]. The community is engaged in creating the commons and in defining rules to successfully manage it, and these practices can be seen as part of the commons itself [@Meroni2022]. The process through which people come together to find solutions, and to create institutions to govern the commons is called “commoning” [@Euler2018; @Schmelzer2022]. Given the essential role of the community in defining a common, considering the characteristics of the specific group of people who is commoning is crucial to have a full understanding of the commons itself [@Dove2019]. Finally, commons are not organized around the generalized market competition [@Euler2019] and do not involve the classic private and public model [@Ostrom1990].
-
-
-
-
+Commons represent an alternative to the capistlist system, and they are therefore a possible way to attain degrowth [@Euler2019]. Commons have many definitions, and they could be resumed through three key points. First, the commons' goal is to manage shared resources, goods, or territories [@Ostrom1990; @Meroni2022; @Schmelzer2022] or to produce values [@Seravalli2018]. In general, commons allow to find solutions for the needs of the affected people [@Euler2018; @Euler2019]. Secondly, commons are managed by a self-organized community of users [@Ostrom1990] and they are based on participatory principles [@Seravalli2018]. The community is engaged in creating the commons and in defining rules to successfully manage it, and these practices can be seen as part of the commons itself [@Meroni2022]. The process through which people come together to find solutions, and to create institutions to govern the commons is called "commoning" [@Euler2018; @Schmelzer2022]. Given the essential role of the community in defining a common, considering the characteristics of the specific group of people who is commoning is crucial to have a full understanding of the commons itself [@Dove2019]. Finally, commons are not organized around the generalized market competition [@Euler2019] and do not involve the classic private and public model [@Ostrom1990].
 
 second: explain why commons can contribute to degrowth
-
 
 -   commons are a way to attain degrowth, they are part of the solution: "they respect the planet by giving mutual benefits to their members, and they could be the needed change toward more sustainable and fair economy and society (@Meroni2022; @Seravalli2018)" =\> read again the two articles to formulate better
 -   @Bollier2014: "important feature of commons : they can arise almost anywhere and be highly generative in unlikely circumstances. There is no master inventory of commons. They can arise whenever a community decides it wishes to manage a resource in a collective manner, with a special regard for equitable access, use and sustainability."
@@ -78,8 +73,6 @@ second: explain why commons can contribute to degrowth
 
 Look for @Hess2008 and the classification of new commons =\> read the paper!
 
-
-
 @Fitzpatrick2022: review on degrowth literature, some of the elements identified relate to commons: - part of the objectives to attain degrowth: guarantee the decommodified and universal provision of fundamental human needs; promote shared housing; prioritise small, highly self-sufficient communities; defend and reclaim the commons\
 - theme "energy & environment": energy democracy made of convivial, community-owned and operated renewable energy systems\
 - theme "food": food as political, so every community should be able to determine its food system, seed commons\
@@ -88,7 +81,6 @@ Look for @Hess2008 and the classification of new commons =\> read the paper!
 - theme "urban planning": guarantee decent, affordable homes for everyone by protecting the housing sector from commodification and speculation; Housing sufficiency promotes alternative housing arrangements such as ecovillages, eco-cohousing, housing cooperatives, or squatting. It also promotes common facilities (e.g. cars, gardens, kitchens) and retrofitting programs to significantly lower the ecological footprint of dwellings
 
 @Schmelzer2022: We focus on transformational changes in six areas: (1) democratizing the economy, which includes, for example, strengthening the commons and solidarity economy, transferring utilities like water or electricity into democratic ownership, providing institutional support for cooperative workplaces, or proposals for macroeconomic coordination and participatory planning (in the introduction) + 6 clusters grouping proposal for degrowth pathaways, the 1) involving commons: "democratization, solidarity economy, and commoning" =\> initiatives such as collectively managed common properties, solidary economies or community-based agricultural systems should be defended against the competition of neoliberal markets, but also the degrowth policies should create the conditions for their expansion "The defense of existing commons and the expansion of production methods based on commons principles can be seen as a central component of a degrowth economy"
-
 
 -   challenge in commons: social dilemma =\> temptation to pursue personal interest, but if everybody does so the commons will fail
 
@@ -154,6 +146,7 @@ The Psychology of Social Dilemmas (@VanVugt1998) =\> individual and collective s
 -   SOCIAL IDENTITY IS ALWAYS USED AS A SINGLE CONSTRUCT, BUT IN REAL LIFE PEOPLE HAVE MANY SOCIAL IDENTITIES OVERLAPPING!
 
 # Scope
+
 @Meroni2022: urban commons (see the definition!)
 
 housing initiatives in Switzerland as real-life commons =\> why? find the parallelism between the two (see document prepared for the kick-off meeting)
@@ -167,6 +160,124 @@ WOGENO: Bern: The co-operative WOGENO Bern buys, builds and finances houses in o
 check here: <https://gen-suisse.ch/it/inizio/> =\> housing initiatives but more on the rural zones, but can be useful to define "eco-villages"
 
 # Research questions & methods
+
+\## Research question 1
+
+\*Impact of the context on personal factors.\*
+
+How does commons' organization influence the social identification of their members?\\
+
+Is the strength of the identification moderated by other social groups?
+
+IV1 = number of activities organized by the housing initiative (HI)\\
+
+=\\\> HI level, ask to the contact person
+
+IV2 = degree of (possible) implication of members in the HI organization\\
+
+=\\\> HI level, ask to the contact person
+
+IV3 = personal amount of contacts with other residents\\
+
+=\\\> individual level, survey
+
+DV1 = social identification as a member of the housing initiative\\
+
+=\\\> individual level, survey
+
+DV2 = perception of other residents and of conflicts within the HI\\
+
+[idea: do they see the others as "residents like me" or do they use opposite social groups to describe them?]
+
+DV3 = social identification in other social groups\\
+
+=\\\> individual level, survey
+
+control group:
+
+\- identification as a resident of their building
+
+\- perception of other residents
+
+\- identification in other social groups
+
+'+ include control variables both at the individual + HI level
+
+\### Social identification in HI
+
+3 hypothesis:
+
+H1: the social identification as a member of HI is higher than the control group's identification as resident of their building
+
+H2: the strength of the social identification as a member of HI positively correlates with the number of activities organized by the HI
+
+H3: the strength of the social identification as a member of HI positively correlates with the degree of (possible) implication in the HI organization
+
+H2 & H3: look for results about formation of social identity?
+
+\### Perception of other residents
+
+Possible survey:
+
+"In your HI there are different categories of residents: full-rent, free-rent, ... (see based on the HI, and provide an explanaition of each category).
+
+\- In which one are you?
+
+\- Measure of prejudice towards others categories"
+
+Hypothesis:
+
+H4: the amount of prejudice against other categories negatively correlates with the personal level of contacts with other residents (intergroup contact hypothesis, \@Allport1954)
+
+\### Social identification in other social groups
+
+Manipulation?
+
+"Imagine a competition with other HI" + equivalent for control group =\\\> high vs low salience of resident identity (salience of social identity =\\\> TIS + look for other theories)
+
+H5: the identification in other social groups is stronger in the low salience condition than in the high salience condition
+
+H5.1: this difference is stronger for the experimental group than for the control group
+
+\## Research question 2
+
+\*Impact of personal factors on the context\*
+
+How does the identification as a HI member impact the participation to the management activities/community activities? How does it impact the relationship with others members (trust, communication, importance of social norms, ...)?
+
+\## Research question 3
+
+\*Intervention\*
+
+Can social identification as a member of HI be strengthen by a behavioural intervention? Can such as intervention have positive effects for sustainability?
+
+Ideas: competition between HI about which one consumes less?
+
+\## Research question 4
+
+\*Impact of HI on society\*
+
+Do HI members have a different perspective on society than control group? Is social organization in HI different than in "normal" houses (work division, care work, ...)?
+
+=\\\> see Federici on women and commons: women have a very important part in natural commons (see her examples about African and South American women)
+
+open question: is the same in urban commons nowadays? Do women do most of the work?
+
+OR opposite hypothesis = more egalitarian work division because modern urban commons are more progressive than average society?
+
+\## Longitudinal research questions
+
+Does social identification impact survey response?\\
+
+HI level: mean of social identification + rate of experimental mortality (=\\\> responding at the survey as a mean to contribute to HI???)
+
+Does it also impact the duration of stay in HI?\\
+
+Individual level: does it predict the probability of participation in the next wave of survey?
+
+How does the identification evolve over the waves?
+
+Each wave: list different social groups (included "resident") from the least to the most important =\\\> see if there is an evolution of the position
 
 How does the "common identity" interact with other social identity such as gender, socio-economic status?
 
@@ -270,11 +381,11 @@ height = 2000, width = 1300)
 
 Independent Group of Scientists appointed by the Secretary-General, Global Sustainable Development Report 2023: *Times of crisis, times of change: Science for accelerating transformations to sustainable development*, (United Nations, New York, 2023)
 
-United Nations Development Program (n.d.). *Sustainable Development Goals: Background on the Goals*. Retrieved November 9, 2023, from https://www.undp.org/sdg-accelerator/background-goals
+United Nations Development Program (n.d.). *Sustainable Development Goals: Background on the Goals*. Retrieved November 9, 2023, from <https://www.undp.org/sdg-accelerator/background-goals>
 
-University of Leeds (n.d.). *Country Comparisons*. A Good Life For All Within Planetary Boundaries. Retrieved November 9, 2023, from https://goodlife.leeds.ac.uk/national-snapshots/countries/#Switzerland
+University of Leeds (n.d.). *Country Comparisons*. A Good Life For All Within Planetary Boundaries. Retrieved November 9, 2023, from <https://goodlife.leeds.ac.uk/national-snapshots/countries/#Switzerland>
 
-OECD (n.d.). *Switzerland*. OECD Better Life Index. Retrieved November 9, 2023, from https://www.oecdbetterlifeindex.org/countries/switzerland/
+OECD (n.d.). *Switzerland*. OECD Better Life Index. Retrieved November 9, 2023, from <https://www.oecdbetterlifeindex.org/countries/switzerland/>
 
 ::: {#refs custom-style="Bibliography"}
 :::
