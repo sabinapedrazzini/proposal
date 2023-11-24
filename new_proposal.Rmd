@@ -75,7 +75,7 @@ As shown in Figure 1, at a global level, social foundations are not fully met an
 
 [^3]: The term "commons" is both singular and plural [@Bollier2014]. For the difference between the singular forms "common" and "commons", see @Feinberg2021.
 
-Commons could be a solution to the current social and ecological issues because they allow people to contrast the detrimental effects of capitalism by self-organizing to directly address their problems and needs in a sustainable way [@Bollier2014; @Bollier2019]. In fact, the capitalistic organization of labor has separated the production from the consumption, and individuals are therefore lead to ignore the social and environmental cost of the products they purchase [@Federici2010]. Moreover, commons are a possible way to attain degrowth [@Euler2019]. This term indicates a radical change on the political and economic level aimed at drastically reduce resource consumption [@Kallis2018]. The goal is to create a socially and ecologically sustainable society, that is not based on economic, capitalistic growth. In fact, the actual system is "structurally unsustainable, because it builds on structures of insufficiency --- there is no "enough" to it" [@Euler2019, p. 2].
+Commons could be a solution to the current social and ecological issues because they allow people to contrast the detrimental effects of capitalism by self-organizing to directly address their problems and needs in a sustainable way [@Bollier2014; @Bollier2019]. In fact, the capitalistic organization of labor has separated the production from the consumption, and individuals are therefore lead to ignore the social and environmental cost of the products they purchase [@Federici2010]. Moreover, commons are a possible way to attain degrowth [@Euler2019]. This term indicates a radical change on the political and economic level aimed at drastically reduce resource consumption [@Kallis2018]. The goal is to create a socially and ecologically sustainable society, that is not based on economic, capitalistic growth. In fact, the actual system is "structurally unsustainable, because it builds on structures of insufficiency --- there is no"enough" to it" [@Euler2019, p. 2].
 
 Commons can assume various forms, because "they can arise whenever a community decides it wishes to manage a resource in a collective manner, with a special regard for equitable access, use and sustainability" [@Bollier2014, p.19]. Due to their variety there are several definitions of commons, that can be resumed through three key points.
 
@@ -103,9 +103,19 @@ Finally, the laboratory study of social dilemmas also largely contributed to the
 
 # State of research and gap
 
-The first important gap in the literature about cooperation in commons is the lack of quantitative studies that took place in real-life commons. In fact, the most common approach to the study of real commons is qualitative/observational [e.g. @Ostrom1990]. Papers that used quantitative methods usually simulated a commons in a laboratory [e.g. @Mosler1993]. Although it offers a standard paradigm to the study of cooperation [@Balliet2011], this approach does not allow to exactly reproduce all the dynamics of a commons [@Cole2010; @Henry2011]: some elements such as cultural factors and specific ecological conditions affecting the decision-making process cannot be reproduced in lab experiments [@Janseen2015].
+In the literature about cooperation in commons, there are two important gaps. First, to the author's knowledge, there are just a few studies that investigated in a quantitative way how different factors can shape cooperation in real-life commons. In fact, researches about commons can be divided in three main categories:
 
-Therefore, to the author's knowledge, there are few or no studies that investigates the causal relation of different factors on cooperation in real-life commons.
+1.  Quantitative studies about laboratory-simulated commons [e.g. @Mosler1993; @DeKwaadsteniet2008]. This approach is very popular because it offers a standard paradigm to test under which conditions individuals cooperate [@Balliet2011]. However, it does not allow to exactly reproduce all the dynamics of a real-life commons [@Cole2010; @Henry2011]: some elements such as cultural factors and specific ecological conditions affecting the decision-making process cannot be reproduced in lab experiments [@Janseen2015].
+2.  Observations of the functionning of real-life commons. The most popular example is the work of Elinor Ostrom, and especially her seminal work "Governing the commons" (1990), where she observed several existing commons in different part of the world and she derived eight principles to successfully manage a common pool resource.
+3.  Theoretical papers about commons, where the authors analyze the commons from a theoretical perspective. These papers usually focus on how to define commons [e.g. @Hess2008], how commons have evolved [e.g. @Federici2011], or how they could contribute in changing our society [e.g. @Bollier2014].
+
+resume: combining the two could give a new perspective to the study of commons; some already did it (list). However (second gap): no social psychological perspective
+
+@Noonan2016: predicts volutarism and philanthropy from "sense of community" =\> study close to what I want, but without proper theories
+
+@Franzen2019: trust predicts the probability to have a self-administered outlet
+
+@Barrero-Amortegui2021: to read!
 
 problem of this gap: no studies about causal factors who also consider the real social dynamic of a commons
 
