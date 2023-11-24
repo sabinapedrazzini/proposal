@@ -103,78 +103,38 @@ Finally, the laboratory study of social dilemmas also largely contributed to the
 
 # State of research and gap
 
-In the literature about cooperation in commons, there are two important gaps. First, to the author's knowledge, there are just a few studies that investigated in a quantitative way how different factors can shape cooperation in real-life commons. In fact, researches about commons can be divided in three main categories:
+Researches about cooperation in commons can be divided in two main categories:
 
-1.  Quantitative studies about laboratory-simulated commons [e.g. @Mosler1993; @DeKwaadsteniet2008]. This approach is very popular because it offers a standard paradigm to test under which conditions individuals cooperate [@Balliet2011]. However, it does not allow to exactly reproduce all the dynamics of a real-life commons [@Cole2010; @Henry2011]: some elements such as cultural factors and specific ecological conditions affecting the decision-making process cannot be reproduced in lab experiments [@Janseen2015].
-2.  Observations of the functionning of real-life commons. The most popular example is the work of Elinor Ostrom, and especially her seminal work "Governing the commons" (1990), where she observed several existing commons in different part of the world and she derived eight principles to successfully manage a common pool resource.
-3.  Theoretical papers about commons, where the authors analyze the commons from a theoretical perspective. These papers usually focus on how to define commons [e.g. @Hess2008], how commons have evolved [e.g. @Federici2011], or how they could contribute in changing our society [e.g. @Bollier2014].
+1.  Quantitative studies about laboratory-simulated commons [e.g. @Mosler1993; @DeKwaadsteniet2008]. This approach is very popular because it offers a standard paradigm to test under which conditions individuals cooperate [@Balliet2011]. Moreover, with an experimental design it is possible to draw causal links between individual or contextual factors (such as Social Value Orientation, @Balliet2009, trust, @Kocher2015, or social identity, @Zhang2019) and cooperation. However, a laboratory-based simulation does not allow to exactly reproduce all the dynamics of a real-life commons [@Cole2010; @Henry2011]: some elements such as cultural factors and specific ecological conditions affecting the decision-making process cannot be reproduced in lab experiments [@Janssen2015].
+2.  Observations of the functionning of real-life commons. The most popular example is the work of Elinor Ostrom, and especially her seminal work "Governing the commons" (1990), where she observed several existing commons in different part of the world and she derived eight principles to successfully manage a common pool resource. These works usually focused on the commons as a whole, with no or little focus on the individual characteristics of the commoners who manage them.
 
-resume: combining the two could give a new perspective to the study of commons; some already did it (list). However (second gap): no social psychological perspective
+As a result, there is a lack of studies that used a quantitative method to investigate the causal effect of individual and group factors on people's willingness to cooperate in a real-life commons. Therefore, combining these two categories would allow to complete the literature about cooperation in commons. More specifically, by adopting a quantitative method in real-life settings, it could be possible to have a better understanding of the conditions that improve cooperation, without the disadvantages of a laboratory study. Moreover, in real-life study there is a lack of focus on individual characteristics. For this reason, applying an individual perspective would allow to have a better understanding of why some people cooperate more than others, and why some in some commons there is more cooperation than in others.
 
-@Noonan2016: predicts volutarism and philanthropy from "sense of community" =\> study close to what I want, but without proper theories
+More recent studies already started to fill these gaps. For instance, @Franzen2019 found that farmer's trust in others predicts the probability to have a self-administered outlet in Swiss farms. Moreover, @VanVugt2009 resumed several studies that investigated the causal impact of incentives and social identity on the cooperation for a management of a shared resource. Finally, @Noonan2016 studied self-organized dog parks in the United States, and used survey to collect data about participants feelings and behaviours. They found that people's sense of community predicts the amount of time spent doing voluntary activities for the maintaining of the park.
 
-@Franzen2019: trust predicts the probability to have a self-administered outlet
+However, the self-administered outlets in @Franzen2019 do not fit exactly in the definition of commons used for the current paper, while @VanVugt2009 focalized on the management of shared resources in extreme situations (e.g. a water shortage). Finally, @Noonan2016: ok, but methodology not top and more focus on institutions than on people (check).
 
-@Barrero-Amortegui2021: to read!
+At the same time, there are studies that start to include a more individual-centered approach in the study of commons:
 
-problem of this gap: no studies about causal factors who also consider the real social dynamic of a commons
-
-=\> Moreover, our aim was to use results of social dilemma researches to gain a better understanding of commons, therefore most of the included studies had a laboratory setting. In fact, this kind of setting is very useful to study social dilemmas because it provides a standard paradigm (Balliet, Li, et al., 2011). However, this does not allow to exactly reproduce the dynamics of a commons (Cole & Grossman, 2010; Henry & Dietz, 2011) (Janssen, 2015).
-
-approach and topic linked? social psychology often uses quantitative methods
-
-traditionally: theoretical and observational/qualitative (Hardin and Ostrom)
-
--   
-
-    -   few studies that focused in a psychological way on why do people cooperate in commons =\> most of them studied the commons as a whole, without focusing on the individuals that manage them (see references above)
-
--   quantitative studies: in laboratory, with model of commons =\> find the reference that says that it's ok but not ideal because there are some aspects of real-life dynamics that cannot be reproduced =\> there are few or no studies that investigated the causal effect of individual and group factors on people's willingness to cooperate in a real-life commons
-
-    -   @Kopelman2002: review of the factors that influence cooperation in commons dilemmas, here's what they identified on the individual level: gender and social motives (SVO) and power (social status) =\> so not really a focus on identity factors or group dynamic factors
-
-    -   @DeCaro2021: "Conventional wisdom (rational choice theory) assumes that individuals are destined to collectively destroy vital ecological systems due to their narrow self-interest. In contrast, Humanistic Rational Choice Theory (HRCT) assumes individuals can cooperatively self-govern, devising effective conservation agreements and governance systems to constrain self-interest for mutual benefit. To test this assumption, we examined the motivational, perceptual, and cooperative outcomes of communication in a resource dilemma experiment"
-
-    -   The Psychology of Social Dilemmas (@VanVugt1998) =\> individual and collective solution to social dilemmas, he talks about SD but to model real-life situation such as water shortage or public transportation
-
-    -   there are quantitative studies about cooperation in commons, but often they are lab experiments that recreate a commons [e.g @Mosler1993; @Brozyna2018]
-
--   social psychological perspective?
-
-    -   @VanVugt2009 =\> incentives, identity, information and institutions
-
-=\> both of VV papers mention social identity but it has not been study in a real common, but just in social dilemma real-life situations
-
-previous notes:
-
-find studies on commons on a psychological perspective/focus on members?
-
-@Singh2017: "[Hardin's] caricature does not take into account the possibility that the shepherd might grieve the loss of his green valley when it degrades, or that grief might galvanize him into action to avert the tragedy. The affective and communicative relations between the pasture and the shepherd and amongst the shepherds and their power to bring both the commoner and the commons into being remain invisible in this picture"\
+- @Singh2017: "[Hardin's] caricature does not take into account the possibility that the shepherd might grieve the loss of his green valley when it degrades, or that grief might galvanize him into action to avert the tragedy. The affective and communicative relations between the pasture and the shepherd and amongst the shepherds and their power to bring both the commoner and the commons into being remain invisible in this picture"\
 "affective and communicative relations between the commons and the commoners can lead to more robust theorizing about the commons, and also possibly help in bringing together divergent ways of thinking about the commons"
 
-=\> focus on more individual, relational aspects (affective), but with a non quantitative method
+- @Nightingale2011: "I take some of these insights into the commons debate to think about the role of subjectivity and emotion in creating durable cooperative agreements. In other words, can we conceptualise a 'non-rational' commons?"
 
-@Nightingale2011: "I take some of these insights into the commons debate to think about the role of subjectivity and emotion in creating durable cooperative agreements. In other words, can we conceptualise a 'non-rational' commons?"
+- Singh + Nightindale = non-rational factors such as emotions, ... applied to commons, but not in a quantitative way, and not factor related to social psychology
 
-@Gifford1997: study of the cooperation in commons but with mathematical models
+Moreover: focusing on the commoners also allows to investigate how being part of a commons change their perspective on society. This could supplementary insight on the literature of why commons can contribute to a better society (insert category 3) => all these papers usually focus, again, on the commons as a whole. However, an individual perspective is very useful.
 
-Edney, J. J., & Harper, C. S. (1978). The commons dilemma: A review of contributions from psychology. *Environmental Management*, *2*, 491-507. =\> how the studies of commons contributed to psychology research about decision-making
-
--   few studies that focused in a psychological way on why do people cooperate in commons =\> most of them studied the commons as a whole, without focusing on the individuals that manage them (see references above)
-
-    -   VV applied social psychology to real-life social dilemmas and showed that identification and social norms are very important motivations when deciding whether to cooperate. However, he did not study this effect in commons as we define them
-
-    -   Singh + Nightindale = non-rational factors such as emotions, ... applied to commons, but not in a quantitative way, and not factor related to social psychology
-
--   studies about individual factors =\> qualitative, lack of quantitative studies in the field
-
--   SOCIAL IDENTITY IS ALWAYS USED AS A SINGLE CONSTRUCT, BUT IN REAL LIFE PEOPLE HAVE MANY SOCIAL IDENTITIES OVERLAPPING!
-
--   no researches about how different social groups (women vs men, socio-economic status, ...) contribute differently to a common
+eventual third category: 3.  Theoretical papers about commons, where the authors analyze the commons from a theoretical perspective. These papers usually focus on how to define commons [e.g. @Hess2008], how commons have evolved [e.g. @Federici2011], or how they could contribute in changing our society [e.g. @Bollier2014].
 
 # Scope: urban commons in Switzerland
 
 # Research questions
+
+-   SOCIAL IDENTITY IS ALWAYS USED AS A SINGLE CONSTRUCT, BUT IN REAL LIFE PEOPLE HAVE MANY SOCIAL IDENTITIES OVERLAPPING!
+(@Tajfel1974) => to justify some research questions
+
+-   no researches about how different social groups (women vs men, socio-economic status, ...) contribute differently to a common (justification for the last question)
 
 \newpage
 
