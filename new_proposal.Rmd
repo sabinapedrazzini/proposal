@@ -32,52 +32,28 @@ classoption       : "man"
 output            : papaja::apa6_word
 ---
 
-General plan:
-
--   **state of research & gaps: in studies about cooperation in real-life commons, a social psychology perspective, as well as a quantitative approach is missing**
-
--   **scope: housing initiatives in Switzerland**
-
-    -   **More in details:**
-
-        -   **Situation in CH**
-
-        -   **Urban commons (=\> same challenge as classic commons)**
-
-        -   **see document for kick-off meeting with parallel between definition and CODHA**
-
--   **research questions:**
-
-    -   **does the social identification as a commoners impact cooperation?**
-
-    -   **is social identification impacted by the commons organization?**
-
-    -   **how could cooperation be increased?**
-
-    -   **how does social identification evolve overtime?**
-
-    -   **does housing initiatives contributes to create a social change?**
-
 Since several years we are facing many global crises, both on the environmental and on the social level. For instance, we recently went through a global pandemic, several natural disaster such as fires and floods, wars with consequent humanitarian emergencies, and an important rising in the cost of living. To address these problems, 17 sustainable development goals (SDGs) were created during the 2012 United Nations Conference on Sustainable Development. The aim was to "produce a set of universal goals that meet the urgent environmental, political and economic challenges facing our world" (United Nations Development Program, n.d.). Some years later, @Steffen2015 proposed the Planetary Boundaries Framework, based on the biophysical processes regulating the stability of the Earth system. This framework defines nine "planetary boundaries" (the most important of which are climate change and biosphere integrity) that, if not overshot, insure a safe operating space for human activities. However, the path to attain the SDGs and to respect planetary boundaries is still long. In fact, the latest Global Sustainable Development Report (2023) highlighted that we are far from achieving most of the SDGs.[^1] Moreover, according to the latest update of the Stockholm Resilience Center (2023), at a global level, six boundaries are already crossed.
 
 [^1]: More specifically, between the measurements of 2019 and 2023, a regression was observed in goals concerning air pollution, agricultural water use, relative poverty rates, food waste, greenhouse gas emissions, and biodiversity and nitrogen use. There were minimal progress on goals related to malnutrition and gender gap, while gains were observed only in few areas such as extreme poverty reduction and global income convergence.
 
-In order to develop a new model for human well-being, @Raworth2017 combined the United Nations' SDGs with the Planetary Boundaries Framework. In her approach, "well-being depends on enabling every person to lead a life of dignity and opportunity, while safeguarding the integrity of Earth's life-supporting systems" [@Raworth2017, p.1]. Her model (shown in Figure 1) allows to define a safe and just space for humanity. The inner boundary (social foundation) is composed by social-related SDGs; a minimum level is necessary to attain these goals. On the other side, the ecological ceiling is based on the Planetary Boundaries Framework and ideally should not be overshot.
+In order to develop a new model for human well-being, @Raworth2017a combined the United Nations' SDGs with the Planetary Boundaries Framework. In her approach, "well-being depends on enabling every person to lead a life of dignity and opportunity, while safeguarding the integrity of Earth's life-supporting systems" [@Raworth2017a, p.1]. Her model (shown in Figure 1) allows to define a safe and just space for humanity. The inner boundary (social foundation) is composed by social-related SDGs; a minimum level is necessary to attain these goals. On the other side, the ecological ceiling is based on the Planetary Boundaries Framework and ideally should not be overshot.
 
 ![Figure 1. Doughnut with social foundations as inner boundary and ecological ceiling as outer boundary.\
-Source: @Raworth2017](figure%201.png)
+Source: @Raworth2017a](figure%201.png)
 
-As shown in Figure 1, at a global level, social foundations are not fully met and several planetary boundaries are already overshot. Therefore, a radical change is needed to attain Raworth's definition of well-being.[^2] However, the path to fully satisfy human needs within planetary boundaries is not the same for every country. In fact, countries in Global North generally ensure their population's needs, but they also overshoot most of the planetary boundaries, while in Global South the planetary boundaries are usually respected, but people's needs are not (fully) met [@ONeill2018]. The actual situation would therefore suggest that the social foundation is attained just when planetary boundaries are exceeded. To inverse this tendency, @ONeill2018 suggested that "provisioning systems must be fundamentally restructured to enable basic needs to be met at a much lower level of resource use" (p. 92).
+As shown in Figure 1, at a global level, the social foundation is not fully achieved and several planetary boundaries are already overshot. Therefore, a radical change is needed to attain Raworth's definition of well-being.[^2] However, the path to fully satisfy human needs within planetary boundaries is not the same for every country. In fact, countries in Global North generally ensure their population's needs, but they also overshoot most of the planetary boundaries, while in Global South the planetary boundaries are usually respected, but people's needs are not (fully) met [@ONeill2018]. The actual situation would therefore suggest that the social foundation is attained just when planetary boundaries are exceeded. To inverse this tendency, @ONeill2018 suggested that "provisioning systems must be fundamentally restructured to enable basic needs to be met at a much lower level of resource use" (p. 92).
 
 [^2]: In fact, if we stay on a "business-as-usual pathway", we will not be able to achieve SDGs by 2030, or even 2050 (GSDR, 2023).
+
+From another perspective, the main responsible for the current social and ecological issues can be identified in the capitalist system. Aiming at unlimited growth, it is detrimental both on the ecological and on the social level. First, in capitalism, humans do not see themselves as a part of nature, but as its masters, who can manipulate it according to their desires. This is in strong contrast with ecological sustainability, and leads to over-exploitation of natural resources. Secondly, capitalism promotes an individualistic, self-interested, and competitive mentality, and this destructed the community life. This also increased the levels of loneliness and depression, and reduced the loyalty in personal and institutional relationships [for a comprehensive review, see @Wittel2023]. Moreover, since the capitalistic organization of labor has separated the production from the consumption, individuals are lead to ignore the social and environmental cost of the products they purchase [@Federici2010]. Finally, capitalism is "structurally unsustainable, because it builds on structures of insufficiency --- there is no 'enough' to it" [@Euler2019, p.2].
+
+More and more scholars argue that the solution is degrowth, i.e. a radical change on the political and economic level aimed at drastically reduce resource consumption [@Kallis2018]. This movement argues that unlimited growth is incompatible with the Earth's balance [@Wittel2023], and aims to create a socially and ecologically sustainable society, that is not based on economic, capitalistic growth [@Euler2019]. Therefore, this planned reduction of production and consumption is seen as a solution to the current socio-ecological crises, and is deemed necessary, desirable, and possible [@Fitzpatrick2022; @Schmelzer2022].
 
 ## The commons[^3] as a solution
 
 [^3]: The term "commons" is both singular and plural [@Bollier2014]. For the difference between the singular forms "common" and "commons", see @Feinberg2021.
 
-Commons could be a solution to the current social and ecological issues because they allow people to contrast the detrimental effects of capitalism by self-organizing to directly address their problems and needs in a sustainable way [@Bollier2014; @Bollier2019]. In fact, the capitalistic organization of labor has separated the production from the consumption, and individuals are therefore lead to ignore the social and environmental cost of the products they purchase [@Federici2010]. Moreover, commons are a possible way to attain degrowth [@Euler2019]. This term indicates a radical change on the political and economic level aimed at drastically reduce resource consumption [@Kallis2018]. The goal is to create a socially and ecologically sustainable society, that is not based on economic, capitalistic growth. In fact, the actual system is "structurally unsustainable, because it builds on structures of insufficiency --- there is no"enough" to it" [@Euler2019, p. 2].
-
-Commons can assume various forms, because "they can arise whenever a community decides it wishes to manage a resource in a collective manner, with a special regard for equitable access, use and sustainability" [@Bollier2014, p.19]. Due to their variety there are several definitions of commons, that can be resumed through three key points.
+"In this context, there is an urgent need to construct non-capitalistic ways to reproduce our life, other than those provided by states and markets" [@DeAngelis2012, p.13]. Commons are one of these alternatives. Commons can assume various forms, because "they can arise whenever a community decides it wishes to manage a resource in a collective manner, with a special regard for equitable access, use and sustainability" [@Bollier2014, p.19]. Due to their variety there are several definitions of commons, that can be resumed through three key points.
 
 1.  The commons' goals are to manage shared resources that can be material or abstract [@Ostrom1990; @Meroni2022], and to allow people to find solutions for their shared needs [@Euler2018; @Euler2019].
 2.  Commons are managed by a self-organized community of users [@Ostrom1990], i.e. the commoners. This community is a "social network of mutual aid, solidarity, and practices of human exchange that are not reduced to the market form" [@DeAngelis2003, p.1]. Moreover, commoners' organization is usually local, egalitarian, integrative, and fair [@Gidwani2011].
@@ -85,56 +61,187 @@ Commons can assume various forms, because "they can arise whenever a community d
 
 Finally, although commons are often thought just as a shared resource, the other two aspects are also essential in defining them. Therefore, it is important to consider the commons as the integration of the resource, the community (i.e. the commoners) and its social practices (i.e. commoning) [@Bollier2014]. Another important aspect is that commons are not organized around the generalized market competition [@Euler2019] and do not involve the classic private and public model [@Ostrom1990].
 
-In conclusion, commons can improve people well-being while reducing their environmental impact and, for this reason, they could lead to what @ONeill2018 (in the title of their paper) called "a good life for all within planetary boundaries".
+As mentioned in the previous section, both Raworth's framework and degrowth literature argue that a radical change is needed to try to avert the current crises. Commons represent a possible solution in both perspectives. In fact, since they allow people to self-organize to directly address their problems and needs in a sustainable way [@Bollier2014; @Bollier2019], commons can improve people's well-being while reducing their environmental impact. For this reason, they could lead to what @ONeill2018 (in the title of their paper) called "a good life for all within planetary boundaries". Commons also have a central role in attaining degrowth, because they offer an alternative to the market competition [@Euler2019]. Moreover, commoning would allow to overcome the individualistic mentality imposed by capitalism [@Wittel2023]. For this reasons, aspects related to commons are often mentioned in degrowth literature as potential solutions [e.g. @Schmelzer2022; @Fitzpatrick2022].
 
 ## Cooperation: the challenge of commons
 
 Giving commons' characteristics, their members face a conflict between individual, short-term interests and collective, long-term ones [@Hardin1968]: acting for the common good requires a personal sacrifice, and therefore the temptation to pursue the individual interest is constantly present. Moreover, people can have a feeling of personal inefficacy, because it is easy to believe that their individual contribution will not have a big impact on the collective level [@VanVugt1998], and this can also encourage commoners to pursue their personal interest. In order for a commons to be successful, its members have to overcome these challenges and cooperate, i.e incur a personal sacrifice for the greater good [@Kollock1998].
 
-One of the first paper about cooperation in commons was Hardin's "The tragedy of the commons" (1968). In this article, he argues that commons' members are rational beings who seek to maximize their personal interest by over exploiting the common resource. This would inevitably lead to the destruction of the resource, unless (1) an external institution regulates the access or (2) the resource is privatized. Therefore, according to Hardin, people benefiting from a common resource do not have the ability to successfully manage it without external interventions. His predictions are in line with the Rational Choice Theory (RCT), that also see human beings as too self-interested to cooperate [@DeCaro2021].
+One of the first paper about cooperation in commons was Hardin's "The tragedy of the commons" (1968). In this article, he argues that commons' members are rational beings who seek to maximize their personal interest by over-exploiting the common resource. This would inevitably lead to the destruction of the resource, unless (1) an external institution regulates the access or (2) the resource is privatized. Therefore, according to Hardin, people benefiting from a common resource do not have the ability to successfully manage it without external interventions. His predictions are in line with the Rational Choice Theory (RCT), that also sees human beings as too self-interested to cooperate [@DeCaro2021].
 
-However, later studies falsified Hardin's predictions about people's inability to manage a common resource and greed to maximize their self-interest. The first is Elinor Ostrom's seminal work (1990), where she studied several real-life commons, some of which very successfully managed by the community of users without the intervention of an external authority. Based on her observations, she established eight design principles that distinguish successful from unsuccessful commons. First, commons need clearly defined boundaries to determine who has access to the shared resource, and the governing rules must take into account the local conditions. Moreover, people affected by these rules must be able to participate in modifying them. A monitoring and a graduated sanctions system must also be implemented, as well as low-cost conflict resolution arenas. Finally, external authorities should not challenge the commons' members' right to self-organize[^4] [@Ostrom1990]. These conditions were not respected in Hardin's example, where hypothetical commoners made decisions in a context without local organization or established norms, and that can explain the negative prediction [@Ostrom2008].
+However, later studies falsified Hardin's predictions about people's inability to manage a common resource and greed to maximize their self-interest. The first is Elinor Ostrom's seminal work (1990), where she studied several real-life commons, some of which very successfully managed by the community of users without the intervention of an external authority. Based on her observations, she established eight design principles that distinguish successful from unsuccessful commons. First, commons need clearly defined boundaries to determine who has access to the shared resource, and the governing rules must take into account the local conditions. Moreover, people affected by these rules must be able to participate in modifying them. A monitoring and a graduated sanctions system must also be implemented, as well as low-cost conflict resolution arenas. Finally, external authorities should not challenge the commons' members' right to self-organize[^4] [@Ostrom1990]. These conditions were not respected in Hardin's example, where the hypothetical commoners made decisions in a context without local organization or established norms. Therefore, Hardin's scenario should not be considered a commons, but an open access regime [@Ostrom2008; @Bollier2014], and this can explain his negative predictions about cooperation.
 
 [^4]: The last principle is valid only for commons that are part of a larger system, and is about nested enterprises: all the governance activities should be organized in multiple layers of nested enterprises.
 
-Secondly, there are several theories less pessimistic than RCT about human nature. For instance, the Greed Efficiency Fairness hypothesis posits that the individuals' greed to pursue their narrow interests is constrained by their desire to use the resource efficiently and to fairly allocate it between members [@Wilke1991]. Similarly, according to the Humanistic Rational Choice Theory, the desire to maintain basic social-psychological needs motivates people to cooperate [@DeCaro2021]. Moreover, cooperating can also be a self-presentation strategy [@VanVugt2010a], since showing altruistic behaviours has a positive effect on reputation [@Roberts1998].
+Secondly, Hardin assumed, in line with the Rational Choice Theory, that all the commoners wanted to maximize their personal interest [@Wittel2023]. However, there are several theories less pessimistic than the RCT about human nature. For instance, the Greed Efficiency Fairness hypothesis posits that the individuals' greed to pursue their narrow interests is constrained by their desire to use the resource efficiently and to fairly allocate it between members [@Wilke1991]. Similarly, according to the Humanistic Rational Choice Theory, the desire to maintain basic social-psychological needs motivates people to cooperate [@DeCaro2021]. Moreover, cooperating can also be a self-presentation strategy [@VanVugt2010a], since showing altruistic behaviours has a positive effect on reputation [@Roberts1998].
 
-Finally, the laboratory study of social dilemmas also largely contributed to the study of this topic, by allowing researchers to identify several factors that shape cooperation [e.g. @VanLange2013]. In general, these studies falsified RCT, by demonstrating that, in social dilemmas, people cooperated more than predicted, and that their behaviour was impacted by variables that should not play a role according to the theory [@Ostrom1998].
+Finally, the laboratory study of social dilemmas also largely contributed to the investigation of this topic, by allowing researchers to identify several factors that shape cooperation [e.g. @VanLange2013]. In general, these studies falsified RCT by demonstrating that, in social dilemmas, people cooperated more than predicted, and that their behaviour was impacted by variables that should not play a role according to the theory [@Ostrom1998]. Moreover, research based on different fields has convincingly demonstrated that people can engage in collective actions to sustainably manage shared resources [@Poteete2010a].
 
 # State of research and gap
 
+Taken together, the results presented in the previous section suggest that people can successfully cooperate to manage a commons. However, some questions remain still open: what motivate people to cooperate? Which conditions are more favorable to encourage cooperation?
+
 Researches about cooperation in commons can be divided in two main categories:
 
-1.  Quantitative studies about laboratory-simulated commons [e.g. @Mosler1993; @DeKwaadsteniet2008]. This approach is very popular because it offers a standard paradigm to test under which conditions individuals cooperate [@Balliet2011]. Moreover, with an experimental design it is possible to draw causal links between individual or contextual factors (such as Social Value Orientation, @Balliet2009, trust, @Kocher2015, or social identity, @Zhang2019) and cooperation. However, a laboratory-based simulation does not allow to exactly reproduce all the dynamics of a real-life commons [@Cole2010; @Henry2011]: some elements such as cultural factors and specific ecological conditions affecting the decision-making process cannot be reproduced in lab experiments [@Janssen2015].
-2.  Observations of the functionning of real-life commons. The most popular example is the work of Elinor Ostrom, and especially her seminal work "Governing the commons" (1990), where she observed several existing commons in different part of the world and she derived eight principles to successfully manage a common pool resource. These works usually focused on the commons as a whole, with no or little focus on the individual characteristics of the commoners who manage them.
+1.  Quantitative studies about laboratory-simulated commons [e.g. @DeKwaadsteniet2008; @Mosler1993]. This approach is very popular because it offers a standard paradigm to test under which conditions individuals cooperate [@Balliet2011]. Moreover, with an experimental design it is possible to draw causal links between individual or contextual factors (such as Social Value Orientation [@Balliet2009], trust [@Kocher2015], or social identity [@Zhang2019]) and cooperation. However, a laboratory-based simulation does not allow to exactly reproduce all the dynamics of a real-life commons [@Cole2010; @Henry2011]: some elements such as cultural factors and specific ecological conditions affecting the decision-making process cannot be reproduced in lab experiments [@Janssen2015].
+2.  Observations of the functioning of real-life commons. The most popular example is the work of Elinor Ostrom, and especially her seminal work "Governing the commons" (1990), where she observed several existing commons in different part of the world and she derived eight principles to successfully manage a common pool resource. These works usually focused on the commons as a whole, with no or little focus on the individual characteristics of the commoners who manage them.
 
-As a result, there is a lack of studies that used a quantitative method to investigate the causal effect of individual and group factors on people's willingness to cooperate in a real-life commons. Therefore, combining these two categories would allow to complete the literature about cooperation in commons. More specifically, by adopting a quantitative method in real-life settings, it could be possible to have a better understanding of the conditions that improve cooperation, without the disadvantages of a laboratory study. Moreover, in real-life study there is a lack of focus on individual characteristics. For this reason, applying an individual perspective would allow to have a better understanding of why some people cooperate more than others, and why some in some commons there is more cooperation than in others.
+As a result, there is a lack of studies that used a quantitative method to investigate the causal effect of individual and group factors on people's willingness to cooperate in real-life commons. It would therefore be interesting to combine these two approaches to complete the gap in the literature. Moreover, in real-life studies about cooperation in commons there is a lack of focus on individual characteristics. In fact, there are just a few papers that investigated commons from an individual perspective. For instance, @Nightingale2011 studied the role of commoners' subjectivity and emotion in designing commons' rules. Moreover, @Singh2017 focused on the affective and communicative relations between the commons and the commoners, and on how this can lead to new theorizing about the commons. However, both of these studies used a qualitative method.
 
-More recent studies already started to fill these gaps. For instance, @Franzen2019 found that farmer's trust in others predicts the probability to have a self-administered outlet in Swiss farms. Moreover, @VanVugt2009 resumed several studies that investigated the causal impact of incentives and social identity on the cooperation for a management of a shared resource. Finally, @Noonan2016 studied self-organized dog parks in the United States, and used survey to collect data about participants feelings and behaviours. They found that people's sense of community predicts the amount of time spent doing voluntary activities for the maintaining of the park.
+To sum up, in literature about cooperation in commons there is a lack of studies combining the following three characteristics:
 
-However, the self-administered outlets in @Franzen2019 do not fit exactly in the definition of commons used for the current paper, while @VanVugt2009 focalized on the management of shared resources in extreme situations (e.g. a water shortage). Finally, @Noonan2016: ok, but methodology not top and more focus on institutions than on people (check).
+1.  A real-life setting. This could allow to have more ecological validity compared to laboratory studies.
+2.  A quantitative approach. Thanks to this method it would be possible to define causal links between individual or contextual characteristics and people's cooperation, and, as a consequence, to better understand the necessary conditions to improve cooperation.
+3.  A focus on individual characteristics and motivations. Since commoners are an essential part of the commons, it is fundamental to take into account their personal differences and how these impact cooperation. Moreover, focusing on the commoners could also allow to investigate how being part of a commons change their perspective on society. This would complete the literature about why commons can contribute to attain a fairer and more sustainable society. In fact, papers about this topic usually focus on the commons as a whole [e.g. @Bollier2019; @Federici2010].
 
-At the same time, there are studies that start to include a more individual-centered approach in the study of commons:
-
-- @Singh2017: "[Hardin's] caricature does not take into account the possibility that the shepherd might grieve the loss of his green valley when it degrades, or that grief might galvanize him into action to avert the tragedy. The affective and communicative relations between the pasture and the shepherd and amongst the shepherds and their power to bring both the commoner and the commons into being remain invisible in this picture"\
-"affective and communicative relations between the commons and the commoners can lead to more robust theorizing about the commons, and also possibly help in bringing together divergent ways of thinking about the commons"
-
-- @Nightingale2011: "I take some of these insights into the commons debate to think about the role of subjectivity and emotion in creating durable cooperative agreements. In other words, can we conceptualise a 'non-rational' commons?"
-
-- Singh + Nightindale = non-rational factors such as emotions, ... applied to commons, but not in a quantitative way, and not factor related to social psychology
-
-Moreover: focusing on the commoners also allows to investigate how being part of a commons change their perspective on society. This could supplementary insight on the literature of why commons can contribute to a better society (insert category 3) => all these papers usually focus, again, on the commons as a whole. However, an individual perspective is very useful.
-
-eventual third category: 3.  Theoretical papers about commons, where the authors analyze the commons from a theoretical perspective. These papers usually focus on how to define commons [e.g. @Hess2008], how commons have evolved [e.g. @Federici2011], or how they could contribute in changing our society [e.g. @Bollier2014].
+Some recent studies already started to fill this gap. For instance, @Franzen2019 found that farmer's trust in others predicts the probability to have a self-administered outlet in Swiss farms. Moreover, @VanVugt2009 resumed several studies that investigated the causal impact of incentives and social identity on the cooperation for the management of a shared resource. Finally, @Noonan2016 studied self-organized dog parks in the United States, and used survey to collect data about participants feelings and behaviours. They found that people's sense of community predicts the amount of time spent doing voluntary activities for the maintaining of the park. However, the self-administered outlets in @Franzen2019 do not exactly fit in the definition of commons used for the current paper, while @VanVugt2009 mainly focused on the management of shared resources in extreme situations (e.g. a water shortage). Finally, @Noonan2016 focused mainly on how external institutions affected people's perception of the commons, and how conflicts were managed. Why people did (not) cooperate was not the central question of their paper.
 
 # Scope: urban commons in Switzerland
 
+This research will focus on Switzerland. This country is interesting because it completely follows the Global North tendency identified by @ONeill2018. In fact, of the 7 planetary boundaries, 6 are exceeded, with "Blue water" being the only exception. At the same time, @ONeill2018 found that Switzerland achieved 7 out of the 11 social indicators chosen for their research (Country Comparisons, n.d.), while they did not find information for the remaining four, namely "Life satisfaction", "Healthy life expectancy", "Social support" and "Democratic quality"[^5]. However, according to the OECD Better Life Index, Switzerland perform very well also in these four factors. To attain Raworth's definition of well-being, Switzerland should maintain the high levels on the social indicators, while drastically reduce its impact on the planet. As mentioned in the introduction, commons are essential to attain this goal because they allow people to directly address their needs in a sustainable way [@Bollier2014].
+
+[^5]: Switzerland does not appear on the plot presented in @ONeill2018 because the authors decided to include exclusively the countries for which there were no information missing. However, the information about countries not included in the paper can be retrieved on the page "Country Comparisons" of their website.
+
+Within Swiss commons, this research will focus on urban ones. There are two motivations behind this choice. First, according to the latest statistics, 85% of the Swiss population lives in urban areas (Population - facts and figures, 2023). Therefore, focusing on urban commons allows to investigate a phenomenon that could potentially impact the majority of the population. Secondly, this type of commons has recently arisen in many cities around the world, as a response to the increasing commodification of urban spaces and to the consequent social inequalities. This is an indicator that individuals seek institutions with a more direct participation, as well as more accessible communities [@Foster2016; @Aernouts2018a]. Urban commons are therefore a way to address city residents' shared problems [see for example how the housing crisis in Brussels caused the creation of several housing initiatives, @Aernouts2018a].
+
+Urban commons are part of what @Hess2008 defined as "new commons", namely commons that do not involve a natural common-pool resource. Urban commons can include local streets and parks, public spaces, shared neighborhood amenities, or, in general, all the urban resources where urban residents share access and have a common stake [@Foster2011]. According to @Feinberg2021, the true essence of urban commons is the atmosphere created by users' informal socialization, more than the shared resource itself.
+
+@Hess2008:
+
+-   new commons = commons that are not the traditional natural common-pool resource, one of her section is "neighborhood commons" and include apartment association and community gardens
+
+-   "Instead of conceptualizing the city as an aggregation of private property rights, we should instead seek to identify and protect common resources and interests in the city commons through limited access rights and collaborative governance strategies that preserve and draw upon existing social networks to manage common city resources" (Foster, 2006, cited in \@Hess2008)
+
+@Foster2016:
+
+-   "As public officials relax local regulations and other rules to accommodate the preferences of powerful economic interests, the poor and socially vulnerable populations are being displaced by an urban development machine largely indifferent to creating cities that are both revitalized and inclusive"
+
+@Balmer2015
+
+-   contemporary examples from Germany and Switzerland, two countries that are known as 'tenants' nations' by virtue of having some of the lowest rates of owner-occupied homes among industrialized countries,1 and which thus represent a specific arena of marked contestations within the housing sector
+
+-   see graph on page 2: to be considered as a common resource, the housing initiative must be highly decommodified and highly self-organized and autonomous =\> only cooperative housing respect these criteria
+
+-   According to Andrej Holm, "decommodification, i.e. the withdrawal of housing provision from the market sphere, can be understood as the aim and the benchmark of housing policies and regulations."
+
+-   the complex contemporary 'late liberal' situation, in which neither the state nor the market are fully capable of offering satisfactory solutions for a just and sustainable provision of basic urban resources
+
+-   houses as the most expensive good that we buy in a lifetime
+
+-   cooperative housing: part of the non-profit, rental housing category
+
+-   Housing can have multiple forms: It can be a state-provided benefit or, as we will attempt to show, something like a common good, however it is currently more often treated like a commodity
+
+-   Instruments that are directly linked to the property rights system might thus be capable of decommodifying housing in a more sustainable way and guaranteeing dwellers' self-organization in the long run =\> because policy are more subjected to changes in the political landscape, while property right is always respected
+
+-   A housing cooperative's members are commoners in that they are usually both the tenants and, collectively, the owners of the real estate + housing cooperative do not seek profit, so they don't do housing speculation
+
+why does it apply?
+
+1.  same conflict that a classic common
+
+    "Collectively shared urban resources suffer from the same rivalry and free-riding problems that Garrett Hardin described in his Tragedy of the Commons tale" @Foster2011
+
+2.  rely the housing definitions to the commons definitions
+
 # Research questions
 
--   SOCIAL IDENTITY IS ALWAYS USED AS A SINGLE CONSTRUCT, BUT IN REAL LIFE PEOPLE HAVE MANY SOCIAL IDENTITIES OVERLAPPING!
-(@Tajfel1974) => to justify some research questions
+This study will include five general research questions:
+
+1.  Do trust, social identification and social norms impact cooperation in an housing initiative?
+2.  Is the strength of social identification impacted by the housing initiative organization?
+3.  How do social identification and trust evolve over time?
+4.  Which practical strategies could be used to improve cooperation?
+5.  Do housing initiative contribute to create a social change/a different social organization?
+
+## Research question 1
+
+Is the framework issued from the scoping review confirmed? More specifically:
+
+-   Does the degree of trust in other members of a housing initiative impact people's cooperation? Is the level of trust different in pro-social and pro-self? Which impact of social status?
+
+-   Does the degree of social identification as a resident of the housing initiative impact people's cooperation? Which additional effects does it have on incentives and anonymity?
+
+-   Do social norms impact cooperation? Does the degree of identification impact people's willingness to comply to social norms?
+
+-   Which impact does communication have on social norms, social identification, and trust?
+
+-   Are social identification, trust, and social norms stronger in residents of HI than in the control group?
+
+This questions will be addressed with the first wave of the survey.
+
+### Hypothesis
+
+The hypothesis are based on the framework showed in Figure 2.
+
+![Figure 2. Overview of the hypothesis.](figure%202.png)
+
+#### Trust
+
+Trust can be defined as the "expectations of others' benevolent motives in situations that involve a conflict between self and collective interests" (@Balliet2013, p. 1). In a meta-analysis, the same authors found that, in social dilemma experiments, trust has a positive effect on cooperation. Several studied confirmed this relationship. For instance, high levels of trust are associated with more contributions to a public good (@Kocher2015), individuals' cooperation can be predicted by their beliefs about others' contributions (@Smith2013), people who are pessimistic about others' contribution cooperate significantly less than optimistic (@Oyediran2018), and individuals who cooperate more display higher levels of trust in following interactions (@Chaudhuri2002). Moreover, the effect of trust on cooperation is stronger if people are uncertain about others' intentions [@Balliet2013], like it is often the case in real-life situations [@Vuolevi2012]. This leads to the first hypothesis:
+
+*H1: The more people trust other residents, the more they are likely to cooperate.*
+
+Trust is also linked with the Social Value Orientation, because the expectancy about others' cooperation is a part of the construct of SVO [@Bogaert2008]. Usually pro-social display higher levels of trust that pro-self, who cooperate less in part because they expect others not to cooperate. Therefore, I expect that:
+
+*H1a: The level of trust is higher in pro-social than in pro-self.*
+
+Moreover, trust also depends on social status: in general individuals cooperate more with the members of the same social class than with other classes' members [@Aksoy2019]. At the same time, high-status individuals display more generalized trust (i.e. general beliefs on others' benevolence), while low-status more depersonalized trust (i.e. more trust in other members of their in-group, just because of their membership) [@Navarro-Carrillo2018]. This could be explained by two differences between high- and low-status groups. First, high-status individuals display more system justification than low-status [@Caricati2012]. This means that high-status individuals see the social system as more fair and secure, and therefore it is easier for them to have a generalized trust. Secondly, due to structural differences between high- and low-status group's dynamic, group identification is stronger for low- than for high-status members [@Lorenzi-Cioldi2002]. This explain why, for low-status, it is easier to trust other group members, even without knowing them personally. For this reason:
+
+*H1b: Residents trust more other residents with the same social status as them, and this difference is more pronounced for low-status that for high-status members.*
+
+#### Social identification
+
+According to the Social Identity Theory, people\'s identity is also composed by their group affiliations, and the stronger they identify with a social group, the more important this group becomes for their identity and the more their personal interests aligns with group\'s ones [@Tajfel1974]. For this reason, the more individuals identify with a group, the more they cooperate with other members of the group [@VanVugt2009]. This leads to the second hypothesis:
+
+*H2: The more residents feel a strong identification with the housing initiative, the more they cooperate.*
+
+Given the importance of the group for their personal identity [@Tajfel1974], high-identified individuals are more intrinsically motivated to cooperate. Therefore, social identification can also moderate other factors' impact on the willingness to cooperate. In fact, high-identified individuals need less monetary incentives to cooperate than low-identified ones [@VanVugt2009]. The same principle is also valid for anonymity: in a situation where actions are public, low-identified individuals should increase their cooperation comparing to an anonymous situation, while high-identified ones should display high levels of cooperation in both scenario. In fact, in non anonymous situations there are more social incentives to cooperates, because people worry about others approval [@Rege2004]. Therefore, I expect that:
+
+*H2a: The increase of cooperation via the introduction of a monetary incentive is bigger for low- than for high-identified individuals.*
+
+*H2b: The increase of cooperation via the reduction of anonymity is bigger for low- than for high-identified individuals.*
+
+#### Social norms
+
+There are two types of social norms: descriptive and injunctive. The former refers to what the majority of others do, while the latter to what the majority of others approve [@Cialdini1990]. Both of them are positively related to cooperation [@Thogersen2008]. Moreover, social norms help to maintain cooperation because individuals who do not respect them are susceptible of social sanctions [@Rege2004]. For this reason, the third hypothesis sounds:
+
+*H3: Residents cooperate more if they perceive that cooperation is also adopted and approved by the other members of the housing intiative.*
+
+Social norms are also strictly linked to social identification. In fact, according to the appropriateness framework, when taken a decision people ask themselves: "What does a person like me do in a situation like this?" [@Weber2004]. If they define the situation as a cooperative task and strongly identify with the group, group's norms will be more accessible and they will have a stronger impact on behaviour [@VanLange2013]. Therefore, I expect that:
+
+*H3a: The link between social norms and behaviour is stronger for high-identified residents than for low-identified ones.*
+
+#### Communication
+
+## Research question 3
+
+Evolution of social identification and trust
+
+If social identification as a resident improve, so should do trust, that should be less impacted by social status
+
+Social identification + trust measure in each survey to follow this evolution
+
+## Research question 5
+
+care as a commons?
+
+@Federici2010 + @DellaCosta1972 (manage the citation) =\> for the last research question
+
+=\> is the social and familiar organization in commons different from the control groups?
+
+YES because commons offer an alternative to capitalism, and so people are not forced to adopt the capitalistic division of family? @DellaCosta1972
+
+NO because women always worked more on commons [@Federici2010] ?
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+SOCIAL IDENTITY IS ALWAYS USED AS A SINGLE CONSTRUCT, BUT IN REAL LIFE PEOPLE HAVE MANY SOCIAL IDENTITIES OVERLAPPING!
+
+(1) =\> to justify some research questions
 
 -   no researches about how different social groups (women vs men, socio-economic status, ...) contribute differently to a common (justification for the last question)
+-   German and Swiss housing cooperatives usually operate on a one-person-one-vote basis, regardless of the value of each member's holdings [@Balmer2015] =\> conflicts that could arise?
 
 \newpage
 
